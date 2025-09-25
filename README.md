@@ -2,9 +2,11 @@
 
 [Vanilla Factions Expanded - Tribals](https://steamcommunity.com/sharedfiles/filedetails/?id=3079786283)の自分用の日本語化Mod
 
-[Extract translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3026452122)で出力したファイルを、GithubCopilot の Agent mode に翻訳させたものであることを承知の上で使用してください。
+[Extract translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3026452122)で出力したファイルを、GithubCopilot の Agent mode に翻訳させた上で、一部に強めの医薬を施した内容であることを承知の上で使用してください。
 
 ## 注意点
+
+[!] **技術ツリー、床絵については翻訳をしていません** (レートリミットに引っかった)
 
 * 翻訳漏れがある(可能性がある)
   * Extract translation が抽出しないものは翻訳できない
