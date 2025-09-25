@@ -2,15 +2,18 @@
 
 [Vanilla Factions Expanded - Tribals](https://steamcommunity.com/sharedfiles/filedetails/?id=3079786283)の自分用の日本語化Mod
 
-使用する場合は、この日本語化は **Github Copilot の Agent mode に翻訳させたものである** ということを承知の上でお願いします。
+[Extract translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3026452122)で出力したファイルを、GithubCopilot の Agent mode に翻訳させたものであることを承知の上で使用してください。
 
 ## 注意点
 
-* Github Copilot の Agent mode に翻訳させたものである、そのため…
-  * 同一単語の翻訳揺れ
-  * Core および DLCと異なる言い回し
-  * 直訳 (Country Styleを国風と訳す等)
-    * などがあります(そして作成者自身はそれを許容しています)
+* 翻訳漏れがある(可能性がある)
+  * Extract translation が抽出しないものは翻訳できない
+* 機械翻訳である
+  * Github Copilot の Agent mode にゆるい指示で翻訳翻訳させたため
+    * 同一単語の翻訳揺れ
+    * Core および DLCと異なる言い回し
+    * 直訳 (Country Styleを国風と訳す等)
+      * などがあります(そして本Modの作者自身はそれを許容しています)
 * 更新への追従が遅い
   * 無料Copilotにまかせているため、レートリミット引っかかったら回復まで更新されません
 * 自分が翻訳対象Modを使用しなくなった場合は更新が止まる
@@ -22,8 +25,10 @@
 
 ### 配置イメージ
 
+* Harmony
 * Core
 * DLC群
+* Vanilla Expanded Framework
 * Vanilla Factions Expanded - Tribals
 * **本Mod**
 
