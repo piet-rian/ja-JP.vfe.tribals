@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 
-    <!-- see. https://rimworldwiki.com/wiki/Modding_Tutorials/About.xml -->
+    <packageId>ja-JP.vfe.tribals</packageId>
+    <name>Vanilla Factions Expanded - Tribals - ja-JP</name>
+    <authors>
+        <li>piet-rian</li>
+    </authors>
+    <description>personal use ja-JP translation.</description>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+
+    <modVersion>1.0</modVersion>
+
+    <modDependencies>
+        <li>
+            <packageId>oskarpotocki.vfe.tribals</packageId>
+            <displayName>Vanilla Factions Expanded - Tribals</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/3079786283</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+
+    <loadAfter>
+        <li>oskarpotocki.vfe.tribals</li>
+    </loadAfter>
 
 </ModMetaData>
