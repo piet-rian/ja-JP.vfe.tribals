@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: no expectations -->
+  <VFET_NoExpectations.stages.no_expectations.label>期待なし</VFET_NoExpectations.stages.no_expectations.label>
+  <!-- EN: Expectations? What’s that? -->
+  <VFET_NoExpectations.stages.no_expectations.description>期待？それは何？</VFET_NoExpectations.stages.no_expectations.description>
+
+</LanguageData>

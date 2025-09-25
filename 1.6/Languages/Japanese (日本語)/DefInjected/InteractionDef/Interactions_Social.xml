@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: sharing ideas -->
+  <VFET_TribalGatheringInteraction.label>部族の集会</VFET_TribalGatheringInteraction.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight].</li>
+    <li>talkedabout(p=4)->chatted about</li>
+    <li>talkedabout->shared a word about</li>
+    <li>talkedabout->spoke about</li>
+    <li>talkedabout->gabbed about</li>
+    <li>talkedabout->talked about</li>
+    <li>talkedabout->joked about</li>
+    <li>talkedabout->quipped about</li>
+    <li>commentedabout->said something about</li>
+    <li>commentedabout->said a word about</li>
+    <li>commentedabout->made a comment about</li>
+    <li>commentedabout->commented about</li>
+    <li>commentedabout->told a joke about</li>
+  -->
+  <VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] は [TalkTopicLight] について話した。</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] は [TalkTopicLight] についてコメントした。</li>
+    <li>talkedabout(p=4)->雑談した</li>
+    <li>talkedabout->一言交わした</li>
+    <li>talkedabout->語った</li>
+    <li>talkedabout->おしゃべりした</li>
+    <li>talkedabout->話した</li>
+    <li>talkedabout->冗談を言った</li>
+    <li>talkedabout->軽口を叩いた</li>
+    <li>commentedabout->何か言った</li>
+    <li>commentedabout->一言述べた</li>
+    <li>commentedabout->コメントした</li>
+    <li>commentedabout->意見を述べた</li>
+    <li>commentedabout->ジョークを言った</li>
+  </VFET_TribalGatheringInteraction.logRulesInitiator.rulesStrings>
+
+</LanguageData>

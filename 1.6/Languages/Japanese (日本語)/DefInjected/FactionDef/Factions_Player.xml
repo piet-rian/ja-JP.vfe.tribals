@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: wild men -->
+  <VFET_WildMen.label>野生人</VFET_WildMen.label>
+  <!-- EN: A player-controlled gathering of wild men. -->
+  <VFET_WildMen.description>プレイヤーが操作する野生人の集団。</VFET_WildMen.description>
+  <!-- EN: leader -->
+  <VFET_WildMen.leaderTitle>指導者</VFET_WildMen.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFET_WildMen.messageDefendersAttacking>{1}の{0}があなたの{2}を攻撃しています。</VFET_WildMen.messageDefendersAttacking>
+  <!-- EN: native -->
+  <VFET_WildMen.pawnSingular>原住民</VFET_WildMen.pawnSingular>
+  <!-- EN: natives -->
+  <VFET_WildMen.pawnsPlural>原住民たち</VFET_WildMen.pawnsPlural>
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Wild Men -->
+  <VFET_WildMen.label>野生人</VFET_WildMen.label>
+  <!-- EN: Your small group has discovered fire, a stepping stone towards forming a tribe. Fire
+  offers warmth, safety, and a chance to develop further. Yet, dangers abound in the wild, unknown
+  world around you. You will have to learn how to perform basic tasks - from hunting and sowing, to
+  doctoring and research. Work your way towards forming a tribe that can stand the test of
+  time.\n\nWarning: You start without the ability to do basic tasks, such as sowing, doctoring and
+  hunting - it is extremely difficult and anything can end your run. -->
+  <VFET_WildMen.description>あなたの小さな集団は火を発見しました。これは部族形成への第一歩です。火は温もりと安全、そしてさらなる発展の機会をもたらします。しかし、周囲の世界は危険に満ちています。狩猟や種まき、治療や研究など、基本的な作業を学びながら、時の試練に耐えうる部族を目指しましょう。\n\n警告：種まき・治療・狩猟などの基本作業が最初はできません。非常に困難で、些細なことでゲームオーバーになる可能性があります。</VFET_WildMen.description>
+  <!-- EN: Your small group has discovered fire, a stepping stone towards forming a tribe. Fire
+  offers warmth, safety, and a chance to develop further. Yet, dangers abound in the wild, unknown
+  world around you. You will have to learn how to perform basic tasks - from hunting and sowing, to
+  doctoring and research. Work your way towards forming a tribe that can stand the test of
+  time.\n\nWarning: You start without the ability to do basic tasks, such as sowing, doctoring and
+  hunting - it is extremely difficult and anything can end your run. -->
+  <VFET_WildMen.scenario.description>あなたの小さな集団は火を発見しました。これは部族形成への第一歩です。火は温もりと安全、そしてさらなる発展の機会をもたらします。しかし、周囲の世界は危険に満ちています。狩猟や種まき、治療や研究など、基本的な作業を学びながら、時の試練に耐えうる部族を目指しましょう。\n\n警告：種まき・治療・狩猟などの基本作業が最初はできません。非常に困難で、些細なことでゲームオーバーになる可能性があります。</VFET_WildMen.scenario.description>
+  <!-- EN: Wild Men -->
+  <VFET_WildMen.scenario.name>野生人</VFET_WildMen.scenario.name>
+  <!-- EN: The world was tough and scary. Surviving each day was hard. But a small group of wild
+  people decided to face it together, rather than alone.\n\nThey spent their days looking for food
+  and shelter, and their nights fighting off the cold and danger.\n\nNow, they are starting to form
+  a simple group, helping each other to face the tough world ahead. They are taking their first
+  steps towards becoming a tribe, trying to make life a little less hard for each other. -->
+  <VFET_WildMen.scenario.parts.GameStartDialog.text>世界は厳しく、恐ろしい場所でした。毎日生き延びるのは困難でした。しかし、少数の野生人たちは一人ではなく、共に立ち向かうことを選びました。\n\n彼らは日中は食料や住居を探し、夜は寒さや危険と戦いました。\n\n今、彼らは互いに助け合いながら、単純な集団を形成し始めています。これから先の厳しい世界に立ち向かうため、部族への第一歩を踏み出し、少しでも生きやすい生活を目指しています。</VFET_WildMen.scenario.parts.GameStartDialog.text>
+  <!-- EN: A group of wild people trying to form a tribe. A classic VFE - Tribal experience. -->
+  <VFET_WildMen.scenario.summary>部族を形成しようとする野生人たちの集団。VFE-Tribalのクラシックな体験です。</VFET_WildMen.scenario.summary>
+
+</LanguageData>

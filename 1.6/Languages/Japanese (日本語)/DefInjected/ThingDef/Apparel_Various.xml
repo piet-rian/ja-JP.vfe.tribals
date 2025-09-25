@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: heavy tribalwear -->
+  <VFET_Apparel_TribalHeavy.label>重部族衣</VFET_Apparel_TribalHeavy.label>
+  <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is
+  very effective at insulating against cold temperatures. Provides slightly more protection than the
+  standard tribalwear. -->
+  <VFET_Apparel_TribalHeavy.description>新石器時代の道具で作られた全身衣。見た目は原始的ですが、寒さに対する断熱性は非常に高いです。標準的な部族衣よりもやや防御力があります。</VFET_Apparel_TribalHeavy.description>
+
+  <!-- EN: light tribalwear -->
+  <VFET_Apparel_TribalLight.label>軽部族衣</VFET_Apparel_TribalLight.label>
+  <!-- EN: A torso-only garment crafted using neolithic tools. While it may look primitive, it is
+  very effective at insulating against heat temperatures. -->
+  <VFET_Apparel_TribalLight.description>新石器時代の道具で作られた胴体用衣服。見た目は原始的ですが、暑さに対する断熱性は非常に高いです。</VFET_Apparel_TribalLight.description>
+
+  <!-- EN: war tribalwear -->
+  <VFET_Apparel_TribalWar.label>戦部族衣</VFET_Apparel_TribalWar.label>
+  <!-- EN: An upper-body garment crafted using neolithic tools. While it may look primitive, it is
+  very effective at protecting against sharp and blunt damage. Provides little insulation. -->
+  <VFET_Apparel_TribalWar.description>新石器時代の道具で作られた上半身用衣服。見た目は原始的ですが、切断や打撃ダメージに対する防御力は非常に高いです。断熱性は低めです。</VFET_Apparel_TribalWar.description>
+
+</LanguageData>

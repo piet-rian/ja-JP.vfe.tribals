@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: chunk -->
+  <VFET_Chunk.label>岩塊</VFET_Chunk.label>
+  <!-- EN: A chunk of rock, carefully picked to have the highest smashing potential. -->
+  <VFET_Chunk.description>最も壊しやすい岩を厳選した岩塊。</VFET_Chunk.description>
+  <!-- EN: rock -->
+  <VFET_Chunk.tools.rock.label>岩</VFET_Chunk.tools.rock.label>
+
+  <!-- EN: stake -->
+  <VFET_Stake.label>杭</VFET_Stake.label>
+  <!-- EN: A sharpened wooden log. Can deal substantial damage, but is prone to breaking and
+  deteriorates fast. Good at killing sanguophages. -->
+  <VFET_Stake.description>先端を尖らせた木の丸太。大きなダメージを与えられますが、壊れやすく劣化も早いです。吸血鬼退治にも有効です。</VFET_Stake.description>
+  <!-- EN: shaft -->
+  <VFET_Stake.tools.shaft.label>柄</VFET_Stake.tools.shaft.label>
+  <!-- EN: point -->
+  <VFET_Stake.tools.point.label>先端</VFET_Stake.tools.point.label>
+
+</LanguageData>

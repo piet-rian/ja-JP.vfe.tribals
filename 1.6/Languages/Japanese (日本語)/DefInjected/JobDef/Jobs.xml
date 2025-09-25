@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: extinguishing large fire. -->
+  <VFET_ExtinguishLargeFireJob.reportString>大きな火を消している。</VFET_ExtinguishLargeFireJob.reportString>
+
+  <!-- EN: lighting large fire. -->
+  <VFET_LightLargeFireJob.reportString>大きな火を灯している。</VFET_LightLargeFireJob.reportString>
+
+</LanguageData>

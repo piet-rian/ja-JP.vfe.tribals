@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: wild men group -->
+  <VFET_WildMenSite.label>野生人の集団</VFET_WildMenSite.label>
+  <!-- EN: A group of wild men trying to form a tribe. -->
+  <VFET_WildMenSite.description>部族を形成しようとする野生人たちの集団。</VFET_WildMenSite.description>
+  <!-- EN: Visiting {0} -->
+  <VFET_WildMenSite.approachingReportString>{0}へ向かっています</VFET_WildMenSite.approachingReportString>
+  <!-- EN: Visit {0} -->
+  <VFET_WildMenSite.approachOrderString>{0}を訪問</VFET_WildMenSite.approachOrderString>
+  <!-- EN: Arrived at wild men gathering -->
+  <VFET_WildMenSite.arrivedLetter>野生人の集会に到着しました</VFET_WildMenSite.arrivedLetter>
+
+</LanguageData>

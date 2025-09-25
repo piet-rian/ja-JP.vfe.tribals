@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: animal trap -->
+  <VFET_AnimalTrap.label>動物用罠</VFET_AnimalTrap.label>
+  <!-- EN: A large, sharp spike under tension, connected to a touch-activated trigger. If an animal
+  touches the trigger, the spike springs forth and strikes it. Since it is hidden in the surrounding
+  terrain, it cannot be placed adjacent to other traps. Animals do not sense these when calm, but
+  they are quite obvious to humans and will be avoided by them. -->
+  <VFET_AnimalTrap.description>大きな鋭いスパイクを張力でセットし、触れると発動するトリガーに接続されています。動物がトリガーに触れるとスパイクが飛び出して攻撃します。周囲の地形に隠されているため、他の罠の隣には設置できません。動物は落ち着いている時は感知しませんが、人間には目立つため避けられます。</VFET_AnimalTrap.description>
+
+</LanguageData>

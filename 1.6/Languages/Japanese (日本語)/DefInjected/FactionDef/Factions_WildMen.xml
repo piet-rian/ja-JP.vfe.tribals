@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chief -->
+  <VFET_WildMenGroup.leaderTitle>TODO</VFET_WildMenGroup.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <VFET_WildMenGroup.messageDefendersAttacking>TODO</VFET_WildMenGroup.messageDefendersAttacking>
+  <!-- EN: wild man -->
+  <VFET_WildMenGroup.pawnSingular>TODO</VFET_WildMenGroup.pawnSingular>
+  <!-- EN: wild men -->
+  <VFET_WildMenGroup.pawnsPlural>TODO</VFET_WildMenGroup.pawnsPlural>
+  
+</LanguageData>

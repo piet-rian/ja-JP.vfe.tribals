@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: wild man -->
+  <VFET_Wildperson.label>野生人</VFET_Wildperson.label>
+  <!-- EN: wild woman -->
+  <VFET_Wildperson.labelFemale>野生女性</VFET_Wildperson.labelFemale>
+  <!-- EN: wild women -->
+  <VFET_Wildperson.labelFemalePlural>野生女性たち</VFET_Wildperson.labelFemalePlural>
+  <!-- EN: wild men -->
+  <VFET_Wildperson.labelPlural>野生人たち</VFET_Wildperson.labelPlural>
+
+</LanguageData>

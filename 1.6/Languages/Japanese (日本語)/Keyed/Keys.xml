@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Available cornerstone point -->
+	<VFET.AvailableCornerstonePoint>利用可能な礎石ポイント</VFET.AvailableCornerstonePoint>
+	<!-- EN: Available cornerstone points: {0} -->
+	<VFET.AvailableCornerstonePoints>利用可能な礎石ポイント: {0}</VFET.AvailableCornerstonePoints>
+	<!-- EN: You can spend a cornerstone point to gain a permanent, colony-wide buff that will help
+	you shape your civilization. -->
+	<VFET.AvailableCornerstonePointDesc>礎石ポイントを消費して、コロニー全体に恒久的なバフを付与できます。文明の形成に役立ちます。</VFET.AvailableCornerstonePointDesc>
+	<!-- EN: Cornerstones -->
+	<VFET.Cornerstones>礎石</VFET.Cornerstones>
+	<!-- EN: Customize cornerstones -->
+	<VFET.CustomizeCornerstones>礎石をカスタマイズ</VFET.CustomizeCornerstones>
+	<!-- EN: Ethos -->
+	<VFET.Ethos>信条</VFET.Ethos>
+	<!-- EN: Lock or unlock the faction's ethos. When locked, the ethos text will not auto-regenerate
+	when you unlock a new cornerstone.
+
+Ethos lock is currently off. The ethos text can auto-regenerate. -->
+	<VFET.EthosUnlocked>派閥の信条をロック/解除します。ロックすると新しい礎石を解除しても信条テキストは自動生成されません。\n\n現在、信条ロックはオフです。信条テキストは自動生成されます。</VFET.EthosUnlocked>
+	<!-- EN: Lock or unlock the faction's ethos. When locked, the ethos text will not auto-regenerate
+	when you unlock a new cornerstone.
+
+Ethos lock is currently on. The ethos text will not auto-regenerate. -->
+	<VFET.EthosLocked>派閥の信条をロック/解除します。ロックすると新しい礎石を解除しても信条テキストは自動生成されません。\n\n現在、信条ロックはオンです。信条テキストは自動生成されません。</VFET.EthosLocked>
+	<!-- EN: Gain cornerstone points by advancing to next tech levels -->
+	<VFET.CornerstonesExplanation>次の技術レベルへ進むことで礎石ポイントを獲得します</VFET.CornerstonesExplanation>
+	<!-- EN: The core ethos of your faction. This text has no gameplay impact, but associated
+	cornerstones do. -->
+	<VFET.EthosTooltip>派閥の中核となる信条です。この文章自体はゲームプレイに影響しませんが、関連する礎石は影響します。</VFET.EthosTooltip>
+	<!-- EN: Edit ethos -->
+	<VFET.EditEthos>信条を編集</VFET.EditEthos>
+	<!-- EN: Unlock cornerstone -->
+	<VFET.UnlockCornerstone>礎石を解除</VFET.UnlockCornerstone>
+	<!-- EN: Relevant cornerstones -->
+	<VFET.StatsReport_Cornerstones>関連する礎石</VFET.StatsReport_Cornerstones>
+	<!-- EN: Research {0} to unlock it -->
+	<VFET.WorkDisabledByMissingResearch>解除するには {0} の研究が必要です</VFET.WorkDisabledByMissingResearch>
+	<!-- EN: Form ideology -->
+	<VFET.FormIdeology>イデオロギーを形成</VFET.FormIdeology>
+	<!-- EN: What should your colonists believe? These beliefs affect gameplay and visuals. You will
+	be able to recruit others to your beliefs, or take on their beliefs. -->
+	<VFET.FormIdeologyDesc>入植者の信念を決めます。これらの信念はゲームプレイと見た目に影響します。他者をあなたの信仰に勧誘したり、他者の信仰を受け入れたりできます。\n\n「クラシック」を選ぶとイデオロギーシステムを使わずに遊べます。イデオロギー拡張のコンテンツは有効のままです。\n\n「流動的」を選ぶと基本的なイデオロギーを持って開始し、時間と共に発展させることができます。\n\n「固定」を選ぶとイデオロギーを完全にカスタマイズできます。すべての側面を設定でき、時間がかかる場合があります。</VFET.FormIdeologyDesc>
+	<!-- EN: Due to the small number of wild men, they have decided to join you. -->
+	<VFET.WildMenJoin>野人の数が少ないため、あなたに参加することにしました。</VFET.WildMenJoin>
+	<!-- EN: Due to the uncertainty of being able to best you, wild men have decided to retreat. -->
+	<VFET.WildMenRetreat>あなたに勝てるか不確かであるため、野人たちは撤退を決めました。</VFET.WildMenRetreat>
+	<!-- EN: Wild men ask to join -->
+	<VFET.WildMenJoinTitle>野人が参加を求める</VFET.WildMenJoinTitle>
+	<!-- EN: Wild men from the nearby tribe found their way to {0}. After seeing your numbers, they
+	are requesting to join you. They believe that together, you stand a better chance against the
+	elements.\n\nYou can refuse them, but they may retaliate as a result. -->
+	<VFET.WildMenJoinDesc>{0}の近隣部族の野人たちがあなたのもとを訪れ、人数を見て参加を求めています。共にあれば自然に立ち向かう可能性が高いと考えています。\n\n断ることもできますが、その場合報復されるかもしれません。</VFET.WildMenJoinDesc>
+	<!-- EN: Wild men raid -->
+	<VFET.WildMenRaid>野人の襲撃</VFET.WildMenRaid>
+	<!-- EN: Wild men from the nearby tribe found their way to {0}. After seeing your numbers, they
+	have decided to raid you. You might be able to capture and recruit any survivors. -->
+	<VFET.WildMenRaidDesc>{0}の近隣部族の野人たちがあなたを襲撃することにしました。生存者を捕らえて勧誘できるかもしれません。</VFET.WildMenRaidDesc>
+	<!-- EN: Reject -->
+	<VFET.Reject>拒否する</VFET.Reject>
+	<!-- EN: {0} work type -->
+	<VFET.WorkTypeName>{0} の作業タイプ</VFET.WorkTypeName>
+	<!-- EN: Wild man joins -->
+	<VFET_WildmanLetterLabel>野人が参加</VFET_WildmanLetterLabel>
+	<!-- EN: A wild man wanders in and decides to join your colony -->
+	<VFET_WildmanLetter>野人が迷い込み、植民地に参加することを決めました。</VFET_WildmanLetter>
+	<!-- EN: Farm animals wander in -->
+	<VFET_AnimalsLetterLabel>家畜がやって来た</VFET_AnimalsLetterLabel>
+	<!-- EN: A group of farm animals has been attracted and will join the colony -->
+	<VFET_AnimalsLetter>家畜の群れが引き寄せられ、植民地に加入します。</VFET_AnimalsLetter>
+	<!-- EN: Discovered {0}! -->
+	<VFET_DiscoveryLabel>{0} を発見しました！</VFET_DiscoveryLabel>
+	<!-- EN: A new research project has been discovered in a tribal gathering: {0}!\n\n{1} -->
+	<VFET_Discovery>部族の集会で新しい研究プロジェクト {0} が発見されました。\n\n{1}</VFET_Discovery>
+	<!-- EN: Animal trap has sprung on {0} -->
+	<VFET.AnimalTrapSprung>{0}で動物トラップが作動しました</VFET.AnimalTrapSprung>
+	<!-- EN: Light large fire -->
+	<VFET.LightLargeFire>大火を点火</VFET.LightLargeFire>
+	<!-- EN: Extinguish large fire -->
+	<VFET.ExtinguishLargeFire>大火を消す</VFET.ExtinguishLargeFire>
+	<!-- EN: When burning, large fire emits blindsmoke and has a chance to encourage wild men from the
+	local area to wander in. It's very unstable and may set things around it on fire. -->
+	<VFET.LightLargeFireDesc>燃えている間、大きな火は盲煙を放ち、近隣の野人を引き寄せることがあります。非常に不安定で周囲の物に火が移ることがあります。</VFET.LightLargeFireDesc>
+	<!-- EN: Some Animal tech research must still be completed. -->
+	<VFET.ResearchLeft_Neolithic>いくつかの動物関連技術の研究が未完了です。</VFET.ResearchLeft_Neolithic>
+
+	<!--These
+	are needed for Ideology compat -->
+
+	<!-- EN: optional -->
+	<Optional>任意</Optional>
+	<!-- EN: Any gathering spot, like a table -->
+	<RitualTargetGatherSpotInfo>テーブルなど,人が集まれる場所</RitualTargetGatherSpotInfo>
+
+	<!-- EN: Must be placed on a floor or stony terrain. -->
+	<VFET.MustPlaceOnFloorOrStonyTerrain>床または石地形の上に設置する必要があります。</VFET.MustPlaceOnFloorOrStonyTerrain>
+	<!-- EN: Beauty multiplier for colony {0} tech level -->
+	<VFET.StatsReport_BeautyMultiplier>コロニー（技術レベル {0}）の美しさ倍率</VFET.StatsReport_BeautyMultiplier>
+	<!-- EN: Requirements not met: Not all research projects of the previous tech level have been
+	researched. -->
+	<VFET.NotAllReseachProjectsResearched>要件が満たされていません：前の技術レベルの研究プロジェクトがすべて研究されていません。</VFET.NotAllReseachProjectsResearched>
+	<!-- EN: Wild man in black -->
+	<VFET.ManInBlackLabelReplacement>黒衣の野人</VFET.ManInBlackLabelReplacement>
+	<!-- EN: Customize NPC ideoligion -->
+	<VFET.CustomizeNPCIdeologion>NPC のイデオロギーをカスタマイズ</VFET.CustomizeNPCIdeologion>
+	<!-- EN: Your ideology will be customized upon researching Culture. -->
+	<VFET.CustomizeNPCIdeologionDesc>文化を研究すると NPC のイデオロギーがカスタマイズされます。</VFET.CustomizeNPCIdeologionDesc>
+</LanguageData>

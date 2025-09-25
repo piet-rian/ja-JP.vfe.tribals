@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: encouraging tribal gathering -->
+  <VFET_Encouraging.stages.encouraging_tribal_gathering.label>励ましの部族集会</VFET_Encouraging.stages.encouraging_tribal_gathering.label>
+  <!-- EN: Hey, some of those ideas were pretty great! I think we are unto something here. -->
+  <VFET_Encouraging.stages.encouraging_tribal_gathering.description>素晴らしいアイデアもいくつかあった！何か良い方向に進んでいる気がする。</VFET_Encouraging.stages.encouraging_tribal_gathering.description>
+
+  <!-- EN: ineffective tribal gathering -->
+  <VFET_Ineffective.stages.ineffective_tribal_gathering.label>効果なしの部族集会</VFET_Ineffective.stages.ineffective_tribal_gathering.label>
+  <!-- EN: We tried to discuss some new developments in the tribe, but it devolved into petty
+  bickering about food and shelter... -->
+  <VFET_Ineffective.stages.ineffective_tribal_gathering.description>部族の新しい発展について話し合おうとしたが、食料や住居についての些細な口論に発展してしまった…</VFET_Ineffective.stages.ineffective_tribal_gathering.description>
+
+  <!-- EN: inspiring tribal gathering -->
+  <VFET_Inspiring.stages.inspiring_tribal_gathering.label>感動の部族集会</VFET_Inspiring.stages.inspiring_tribal_gathering.label>
+  <!-- EN: We are close to a breakthrough, I can feel it! -->
+  <VFET_Inspiring.stages.inspiring_tribal_gathering.description>もうすぐ大きな進展がありそうな気がする！</VFET_Inspiring.stages.inspiring_tribal_gathering.description>
+
+  <!-- EN: uninspiring tribal gathering -->
+  <VFET_Uninspiring.stages.uninspiring_tribal_gathering.label>刺激なしの部族集会</VFET_Uninspiring.stages.uninspiring_tribal_gathering.label>
+  <!-- EN: There were some new ideas floating around, but not much of substance. At least it was
+  kinda entertaining. -->
+  <VFET_Uninspiring.stages.uninspiring_tribal_gathering.description>新しいアイデアは多少出たが、実りは少なかった。とはいえ、少しは楽しめた。</VFET_Uninspiring.stages.uninspiring_tribal_gathering.description>
+
+</LanguageData>

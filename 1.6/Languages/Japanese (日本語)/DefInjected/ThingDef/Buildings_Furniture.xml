@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: sitting spot -->
+  <VFET_SittingSpot.label>座るスポット</VFET_SittingSpot.label>
+  <!-- EN: A spot on which to sit. Not very comfortable, and only marginally better than nothing.
+  Can be used at tables, work stations, and elsewhere. -->
+  <VFET_SittingSpot.description>座るための場所。快適さは低く、何もないよりは少しマシです。テーブルや作業台など様々な場所で使えます。</VFET_SittingSpot.description>
+
+</LanguageData>

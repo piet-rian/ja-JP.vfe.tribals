@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: extinguish large fire -->
+  <VFET_ExtinguishLargeFire.label>大きな火を消す</VFET_ExtinguishLargeFire.label>
+  <!-- EN: extinguishing large fire -->
+  <VFET_ExtinguishLargeFire.gerund>大きな火を消火中</VFET_ExtinguishLargeFire.gerund>
+  <!-- EN: extinguish large fire -->
+  <VFET_ExtinguishLargeFire.verb>消火する</VFET_ExtinguishLargeFire.verb>
+
+  <!-- EN: light large fire -->
+  <VFET_LightLargeFire.label>大きな火を灯す</VFET_LightLargeFire.label>
+  <!-- EN: lighting large fire -->
+  <VFET_LightLargeFire.gerund>大きな火を点火中</VFET_LightLargeFire.gerund>
+  <!-- EN: light large fire -->
+  <VFET_LightLargeFire.verb>点火する</VFET_LightLargeFire.verb>
+
+</LanguageData>

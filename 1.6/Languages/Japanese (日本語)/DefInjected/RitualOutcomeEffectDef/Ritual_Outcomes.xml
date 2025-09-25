@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Upon completing enough medieval research projects, advance to industrial tech level. This
+  will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToIndustrial_Outcome.description>中世の研究プロジェクトを十分に完了すると、工業技術レベルに進化します。これにより、文明専用の強力なボーナス「コーナーストーン」を選択できます。</VFET_AdvanceToIndustrial_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToIndustrial_Outcome.comps.0.label>参加者数</VFET_AdvanceToIndustrial_Outcome.comps.0.label>
+
+  <!-- EN: Upon completing enough neolithic research projects, advance to medieval tech level. This
+  will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToMedieval_Outcome.description>新石器時代の研究プロジェクトを十分に完了すると、中世技術レベルに進化します。これにより、文明専用の強力なボーナス「コーナーストーン」を選択できます。</VFET_AdvanceToMedieval_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToMedieval_Outcome.comps.0.label>参加者数</VFET_AdvanceToMedieval_Outcome.comps.0.label>
+
+  <!-- EN: Upon completing enough pre-neolithic research projects, advance to neolithic tech level.
+  This will allow you to pick a Cornerstone - a powerful bonus that applies only to your
+  civilization. -->
+  <VFET_AdvanceToNeolithic_Outcome.description>先新石器時代の研究プロジェクトを十分に完了すると、新石器技術レベルに進化します。これにより、文明専用の強力なボーナス「コーナーストーン」を選択できます。</VFET_AdvanceToNeolithic_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToNeolithic_Outcome.comps.0.label>参加者数</VFET_AdvanceToNeolithic_Outcome.comps.0.label>
+
+  <!-- EN: Upon completing enough industrial research projects, advance to spacer tech level. This
+  will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToSpacer_Outcome.description>工業の研究プロジェクトを十分に完了すると、宇宙世紀レベルに進化します。これにより、文明専用の強力なボーナス「コーナーストーン」を選択できます。</VFET_AdvanceToSpacer_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToSpacer_Outcome.comps.0.label>参加者数</VFET_AdvanceToSpacer_Outcome.comps.0.label>
+
+  <!-- EN: Upon completing enough spacer research projects, advance to ultratech tech level. This
+  will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_AdvanceToUltra_Outcome.description>宇宙世紀の研究プロジェクトを十分に完了すると、ウルトラテック技術レベルに進化します。これにより、文明専用の強力なボーナス「コーナーストーン」を選択できます。</VFET_AdvanceToUltra_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_AdvanceToUltra_Outcome.comps.0.label>参加者数</VFET_AdvanceToUltra_Outcome.comps.0.label>
+
+  <!-- EN: Depending on ritual quality, participants will receive between 2 and 12 research points
+  per participant, divided between the available research projects at the moment. Animal technology
+  level projects will be prioritized, and no points will be allocated to neolithic projects until
+  all animal ones are finished.\n\nAdditionally, positive results have a chance for a wild man or
+  farm animals to be attracted to the colony. -->
+  <VFET_TribalGathering_Outcome.description>儀式の質に応じて、参加者ごとに2～12の研究ポイントが現在利用可能な研究プロジェクトに分配されます。動物技術レベルのプロジェクトが優先され、すべての動物プロジェクトが完了するまで新石器プロジェクトにはポイントが割り当てられません。\n\nさらに、良い結果の場合は野生人や家畜がコロニーに引き寄せられる可能性があります。</VFET_TribalGathering_Outcome.description>
+  <!-- EN: participant count -->
+  <VFET_TribalGathering_Outcome.comps.0.label>参加者数</VFET_TribalGathering_Outcome.comps.0.label>
+  <!-- EN: Total intellectual skill -->
+  <VFET_TribalGathering_Outcome.comps.1.label>知力合計</VFET_TribalGathering_Outcome.comps.1.label>
+  <!-- EN: started at campfire -->
+  <VFET_TribalGathering_Outcome.comps.2.label>焚き火で開始</VFET_TribalGathering_Outcome.comps.2.label>
+  <!-- EN: a campfire -->
+  <VFET_TribalGathering_Outcome.comps.2.expectedThingLabelTip>焚き火</VFET_TribalGathering_Outcome.comps.2.expectedThingLabelTip>
+  <!-- EN: Ineffective -->
+  <VFET_TribalGathering_Outcome.outcomeChances.0.label>効果なし</VFET_TribalGathering_Outcome.outcomeChances.0.label>
+  <!-- EN: The {0} was ineffective! We tried to discuss some new developments in the tribe, but it
+  devolved into petty bickering about food and shelter...\n\n2 points of research per participant
+  will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.0.description>{0}は効果がありませんでした！部族の新しい発展について話し合おうとしましたが、食料や住居についての些細な口論に発展してしまいました…\n\n参加者ごとに2ポイントの研究が利用可能な研究プロジェクトに分配されます。</VFET_TribalGathering_Outcome.outcomeChances.0.description>
+  <!-- EN: Uninspiring -->
+  <VFET_TribalGathering_Outcome.outcomeChances.1.label>刺激なし</VFET_TribalGathering_Outcome.outcomeChances.1.label>
+  <!-- EN: The {0} was uninspiring. There were some new ideas floating around, but not much of
+  substance. At least it was kinda entertaining.\n\n4 points of research per participant will be
+  distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.1.description>{0}は刺激に欠けていました。新しいアイデアは多少出ましたが、実りは少なかったです。とはいえ、少しは楽しめました。\n\n参加者ごとに4ポイントの研究が利用可能な研究プロジェクトに分配されます。</VFET_TribalGathering_Outcome.outcomeChances.1.description>
+  <!-- EN: Encouraging -->
+  <VFET_TribalGathering_Outcome.outcomeChances.2.label>励まし</VFET_TribalGathering_Outcome.outcomeChances.2.label>
+  <!-- EN: The {0} was encouraging. Some of the ideas discussed were pretty great! We are probably
+  unto something here.\n\n8 points of research per participant will be distributed among the
+  available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.2.description>{0}は励ましになりました。話し合われたアイデアの中には素晴らしいものもありました！何か良い方向に進んでいる気がします。\n\n参加者ごとに8ポイントの研究が利用可能な研究プロジェクトに分配されます。</VFET_TribalGathering_Outcome.outcomeChances.2.description>
+  <!-- EN: Inspiring -->
+  <VFET_TribalGathering_Outcome.outcomeChances.3.label>感動</VFET_TribalGathering_Outcome.outcomeChances.3.label>
+  <!-- EN: The {0} was inspiring! The tribe is close to a breakthrough!\n\n12 points of research per
+  participant will be distributed among the available research projects. -->
+  <VFET_TribalGathering_Outcome.outcomeChances.3.description>{0}は感動的でした！部族は大きな進展の目前です！\n\n参加者ごとに12ポイントの研究が利用可能な研究プロジェクトに分配されます。</VFET_TribalGathering_Outcome.outcomeChances.3.description>
+
+</LanguageData>
