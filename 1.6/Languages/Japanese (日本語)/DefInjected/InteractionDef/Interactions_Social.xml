@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!-- EN: sharing ideas -->
-  <VFET_TribalGatheringInteraction.label>部族の集会</VFET_TribalGatheringInteraction.label>
+  <VFET_TribalGatheringInteraction.label>知識共有</VFET_TribalGatheringInteraction.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight].</li>
     <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight].</li>
