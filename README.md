@@ -1,19 +1,40 @@
-# RimworldXMLModTemplate
+# Vanilla Factions Expanded - Tribals(ja-JP)
 
-This is the template repository for XML-based mods in RIMWORLD.
+[Vanilla Factions Expanded - Tribals](https://steamcommunity.com/sharedfiles/filedetails/?id=3079786283)の自分用の日本語化Mod
 
-see. <https://rimworldwiki.com/wiki/Modding_Tutorials/Mod_Folder_Structure>
+使用する場合は、この日本語化は **Github Copilot の Agent mode に翻訳させたものである** ということを承知の上でお願いします。
+
+## 注意点
+
+* Github Copilot の Agent mode に翻訳させたものである、そのため…
+  * 同一単語の翻訳揺れ
+  * Core および DLCと異なる言い回し
+  * 直訳 (Country Styleを国風と訳す等)
+    * などがあります(そして作成者自身はそれを許容しています)
+* 更新への追従が遅い
+  * 無料Copilotにまかせているため、レートリミット引っかかったら回復まで更新されません
+* 自分が翻訳対象Modを使用しなくなった場合は更新が止まる
+  * 自分用のModが結果として公開されている状態である、ということを改めてご留意ください
+
+## 導入方法
+
+一般的な日本語化Modに同じ。翻訳対象のModよりModリスト上で下に配置してください。
+
+### 配置イメージ
+
+* Core
+* DLC群
+* Vanilla Factions Expanded - Tribals
+* **本Mod**
 
 ## MID-SAVE
 
-- 途中導入
-  - 問題の有無
-- 途中で除去
-  - 問題の有無、エラーが発生するかどうか
+* 途中導入および除去
+  * 特に問題ないでしょう
 
 ## CONFLICT
 
-競合が予想されるmodについての記述
+* Rimworld Mod データベース上の翻訳がすでに入ってる場合は変なことが起こるかも(未確認)
 
 ## NOTICE
 
