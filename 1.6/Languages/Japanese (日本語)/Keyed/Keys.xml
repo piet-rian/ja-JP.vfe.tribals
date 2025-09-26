@@ -37,10 +37,10 @@ Ethos lock is currently on. The ethos text will not auto-regenerate. -->
 	<!-- EN: Research {0} to unlock it -->
 	<VFET.WorkDisabledByMissingResearch>解除するには {0} の研究が必要です</VFET.WorkDisabledByMissingResearch>
 	<!-- EN: Form ideology -->
-	<VFET.FormIdeology>イデオロギーを形成</VFET.FormIdeology>
+	<VFET.FormIdeology>思想(イデオロギー)を形成</VFET.FormIdeology>
 	<!-- EN: What should your colonists believe? These beliefs affect gameplay and visuals. You will
 	be able to recruit others to your beliefs, or take on their beliefs. -->
-	<VFET.FormIdeologyDesc>入植者の信念を決めます。これらの信念はゲームプレイと見た目に影響します。他者をあなたの信仰に勧誘したり、他者の信仰を受け入れたりできます。\n\n「クラシック」を選ぶとイデオロギーシステムを使わずに遊べます。イデオロギー拡張のコンテンツは有効のままです。\n\n「流動的」を選ぶと基本的なイデオロギーを持って開始し、時間と共に発展させることができます。\n\n「固定」を選ぶとイデオロギーを完全にカスタマイズできます。すべての側面を設定でき、時間がかかる場合があります。</VFET.FormIdeologyDesc>
+	<VFET.FormIdeologyDesc>入植者の思想(イデオロギー)を決めます。これらの思想はゲームプレイと見た目に影響します。他者をあなたの思想に勧誘したり、他者の思想を受け入れたりできます。\n\n「クラシック」を選ぶと思想システムを使わずに遊べます。イデオロギー拡張のコンテンツは有効のままです。\n\n「流動的」を選ぶと基本的な思想を持って開始し、時間と共に発展させることができます。\n\n「固定」を選ぶと思想を完全にカスタマイズできます。すべての側面を設定でき、時間がかかる場合があります。</VFET.FormIdeologyDesc>
 	<!-- EN: Due to the small number of wild men, they have decided to join you. -->
 	<VFET.WildMenJoin>野人の数が少ないため、あなたに参加することにしました。</VFET.WildMenJoin>
 	<!-- EN: Due to the uncertainty of being able to best you, wild men have decided to retreat. -->
