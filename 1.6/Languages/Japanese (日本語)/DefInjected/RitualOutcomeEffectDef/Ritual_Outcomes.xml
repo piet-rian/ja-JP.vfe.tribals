@@ -3,32 +3,32 @@
 
   <!-- EN: Upon completing enough medieval research projects, advance to industrial tech level. This
   will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
-  <VFET_AdvanceToIndustrial_Outcome.description>中世の研究プロジェクトを十分に完了すると、工業技術レベルに進化します。これにより、文明専用の強力なボーナス「コーナーストーン」を選択できます。</VFET_AdvanceToIndustrial_Outcome.description>
+  <VFET_AdvanceToIndustrial_Outcome.description>中世の研究プロジェクトを十分に完了すると、工業技術レベルに進化します。これにより、文明専用の強力なボーナス「礎石」を選択できます。</VFET_AdvanceToIndustrial_Outcome.description>
   <!-- EN: participant count -->
   <VFET_AdvanceToIndustrial_Outcome.comps.0.label>参加者数</VFET_AdvanceToIndustrial_Outcome.comps.0.label>
 
   <!-- EN: Upon completing enough neolithic research projects, advance to medieval tech level. This
   will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
-  <VFET_AdvanceToMedieval_Outcome.description>新石器時代の研究プロジェクトを十分に完了すると、中世技術レベルに進化します。これにより、文明専用の強力なボーナス「コーナーストーン」を選択できます。</VFET_AdvanceToMedieval_Outcome.description>
+  <VFET_AdvanceToMedieval_Outcome.description>新石器時代の研究プロジェクトを十分に完了すると、中世技術レベルに進化します。これにより、文明専用の強力なボーナス「礎石」を選択できます。</VFET_AdvanceToMedieval_Outcome.description>
   <!-- EN: participant count -->
   <VFET_AdvanceToMedieval_Outcome.comps.0.label>参加者数</VFET_AdvanceToMedieval_Outcome.comps.0.label>
 
   <!-- EN: Upon completing enough pre-neolithic research projects, advance to neolithic tech level.
   This will allow you to pick a Cornerstone - a powerful bonus that applies only to your
   civilization. -->
-  <VFET_AdvanceToNeolithic_Outcome.description>先新石器時代の研究プロジェクトを十分に完了すると、新石器技術レベルに進化します。これにより、文明専用の強力なボーナス「コーナーストーン」を選択できます。</VFET_AdvanceToNeolithic_Outcome.description>
+  <VFET_AdvanceToNeolithic_Outcome.description>先新石器時代の研究プロジェクトを十分に完了すると、新石器技術レベルに進化します。これにより、文明専用の強力なボーナス「礎石」を選択できます。</VFET_AdvanceToNeolithic_Outcome.description>
   <!-- EN: participant count -->
   <VFET_AdvanceToNeolithic_Outcome.comps.0.label>参加者数</VFET_AdvanceToNeolithic_Outcome.comps.0.label>
 
   <!-- EN: Upon completing enough industrial research projects, advance to spacer tech level. This
   will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
-  <VFET_AdvanceToSpacer_Outcome.description>工業の研究プロジェクトを十分に完了すると、宇宙世紀レベルに進化します。これにより、文明専用の強力なボーナス「コーナーストーン」を選択できます。</VFET_AdvanceToSpacer_Outcome.description>
+  <VFET_AdvanceToSpacer_Outcome.description>工業の研究プロジェクトを十分に完了すると、宇宙世紀レベルに進化します。これにより、文明専用の強力なボーナス「礎石」を選択できます。</VFET_AdvanceToSpacer_Outcome.description>
   <!-- EN: participant count -->
   <VFET_AdvanceToSpacer_Outcome.comps.0.label>参加者数</VFET_AdvanceToSpacer_Outcome.comps.0.label>
 
   <!-- EN: Upon completing enough spacer research projects, advance to ultratech tech level. This
   will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
-  <VFET_AdvanceToUltra_Outcome.description>宇宙世紀の研究プロジェクトを十分に完了すると、ウルトラテック技術レベルに進化します。これにより、文明専用の強力なボーナス「コーナーストーン」を選択できます。</VFET_AdvanceToUltra_Outcome.description>
+  <VFET_AdvanceToUltra_Outcome.description>宇宙世紀の研究プロジェクトを十分に完了すると、ウルトラテック技術レベルに進化します。これにより、文明専用の強力なボーナス「礎石」を選択できます。</VFET_AdvanceToUltra_Outcome.description>
   <!-- EN: participant count -->
   <VFET_AdvanceToUltra_Outcome.comps.0.label>参加者数</VFET_AdvanceToUltra_Outcome.comps.0.label>
 
