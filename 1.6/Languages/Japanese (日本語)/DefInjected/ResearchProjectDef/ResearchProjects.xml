@@ -2,9 +2,9 @@
 <LanguageData>
 
   <!-- EN: agriculture -->
-  <VFET_Agriculture.label>TODO</VFET_Agriculture.label>
+  <VFET_Agriculture.label>農業</VFET_Agriculture.label>
   <!-- EN: Learn to grow various staple crops. Unlocks growing job. -->
-  <VFET_Agriculture.description>TODO</VFET_Agriculture.description>
+  <VFET_Agriculture.description>さまざまな主要作物の栽培方法を学ぶ。栽培の仕事が解放される。</VFET_Agriculture.description>
   <!-- EN:
     <li>subject->birth of farming</li>
     <li>subject_story->turned from the nomadic life to sow the seeds of the future</li>
@@ -12,12 +12,18 @@
     <li>subject_story->founded the first settlements, around which communities flourished</li>
     <li>subject_gerund->cultivating sustenance from the soil</li>
   -->
-  <VFET_Agriculture.generalRules.rulesStrings>TODO</VFET_Agriculture.generalRules.rulesStrings>
+  <VFET_Agriculture.generalRules.rulesStrings>
+    <li>subject->農耕の誕生</li>
+    <li>subject_story->遊牧生活から転じて未来の種を蒔いた</li>
+    <li>subject_story->豊かな収穫をもたらすために大地を養い、繁栄を確かなものにした</li>
+    <li>subject_story->最初の集落を設立し、その周りにコミュニティが栄えた</li>
+    <li>subject_gerund->大地から糧を育むこと</li>
+  </VFET_Agriculture.generalRules.rulesStrings>
 
   <!-- EN: animal handling -->
-  <VFET_AnimalHandling.label>TODO</VFET_AnimalHandling.label>
+  <VFET_AnimalHandling.label>家畜の扱い</VFET_AnimalHandling.label>
   <!-- EN: Acquire the knowledge to manage, tame, and accommodate animals. Unlocks handing job, as well as animal taming and slaughtering. -->
-  <VFET_AnimalHandling.description>TODO</VFET_AnimalHandling.description>
+  <VFET_AnimalHandling.description>動物を管理・馴致・飼養する知識を得る。家畜を扱う仕事と、動物の馴致・屠殺が解放される。</VFET_AnimalHandling.description>
   <!-- EN:
     <li>subject->the bond between beast and kin</li>
     <li>subject_story->formed alliances with the animal kingdom, taming the wild for companionship and aid</li>
@@ -25,12 +31,18 @@
     <li>subject_story->merged their destiny with that of their animal brethren, securing a mutual survival</li>
     <li>subject_gerund->fostering the first companions</li>
   -->
-  <VFET_AnimalHandling.generalRules.rulesStrings>TODO</VFET_AnimalHandling.generalRules.rulesStrings>
+  <VFET_AnimalHandling.generalRules.rulesStrings>
+    <li>subject->獣と血縁の絆</li>
+    <li>subject_story->動物王国と同盟を結び、野生を馴らして仲間と助力を得た</li>
+    <li>subject_story->獣の力を利用し、部族の可能性を高めた</li>
+    <li>subject_story->動物たちと運命を分かち合い、相互の生存を確保した</li>
+    <li>subject_gerund->最初の仲間を育むこと</li>
+  </VFET_AnimalHandling.generalRules.rulesStrings>
 
   <!-- EN: bow -->
-  <VFET_Bow.label>TODO</VFET_Bow.label>
+  <VFET_Bow.label>弓</VFET_Bow.label>
   <!-- EN: Unlock the ability to craft the staple of ranged combat - a short bow. -->
-  <VFET_Bow.description>TODO</VFET_Bow.description>
+  <VFET_Bow.description>遠距離戦の基本である短弓を作れるようになる。</VFET_Bow.description>
   <!-- EN:
     <li>subject->the arc of ascendancy</li>
     <li>subject_story->stretched the bowstring of progress, launching arrows towards the horizon</li>
@@ -38,12 +50,18 @@
     <li>subject_story->ushered in the era of ranged combat, shifting the dynamics of the hunt and warfare</li>
     <li>subject_gerund->extending reach beyond grasp</li>
   -->
-  <VFET_Bow.generalRules.rulesStrings>TODO</VFET_Bow.generalRules.rulesStrings>
+  <VFET_Bow.generalRules.rulesStrings>
+    <li>subject->上昇の弧</li>
+    <li>subject_story->進歩の弦を弾き、矢を地平へ放った</li>
+    <li>subject_story->弓を究め、忍耐と技術と道具を融合させた</li>
+    <li>subject_story->遠距離戦の時代を切り開き、狩りと戦闘の力学を変えた</li>
+    <li>subject_gerund->手の届かない先まで伸ばすこと</li>
+  </VFET_Bow.generalRules.rulesStrings>
 
   <!-- EN: construction -->
-  <VFET_Construction.label>TODO</VFET_Construction.label>
+  <VFET_Construction.label>建築</VFET_Construction.label>
   <!-- EN: Learn the absolute basic techniques of building and structural design. Unlocks the ability to build walls and roofs. -->
-  <VFET_Construction.description>TODO</VFET_Construction.description>
+  <VFET_Construction.description>建築と構造設計の基本技術を学ぶ。壁や屋根を建てる能力が解放される。</VFET_Construction.description>
   <!-- EN:
     <li>subject->shelter and structure</li>
     <li>subject_story->raised the first walls against the elements, crafting sanctuaries from the wild</li>
@@ -51,12 +69,18 @@
     <li>subject_story->embarked on the architectural journey, laying the cornerstone of progress</li>
     <li>subject_gerund->building the cradle of civilization</li>
   -->
-  <VFET_Construction.generalRules.rulesStrings>TODO</VFET_Construction.generalRules.rulesStrings>
+  <VFET_Construction.generalRules.rulesStrings>
+    <li>subject->避難所と構造</li>
+    <li>subject_story->最初の壁を立てて自然の脅威から身を守る聖域を作り上げた</li>
+    <li>subject_story->集いと休息の場所を組み立て、コミュニティと安全を育んだ</li>
+    <li>subject_story->建築の旅路を始め、進歩の礎石を据えた</li>
+    <li>subject_gerund->文明の揺りかごを築くこと</li>
+  </VFET_Construction.generalRules.rulesStrings>
 
   <!-- EN: cultivation -->
-  <VFET_Cultivation.label>TODO</VFET_Cultivation.label>
+  <VFET_Cultivation.label>栽培</VFET_Cultivation.label>
   <!-- EN: Expand crop variety with more specific, difficult to grow plants, such as smokeleaf or psychoid plant. -->
-  <VFET_Cultivation.description>TODO</VFET_Cultivation.description>
+  <VFET_Cultivation.description>スモークリーフやサイコイドのような、より特異で育てにくい作物の種類を増やす。</VFET_Cultivation.description>
   <!-- EN:
     <li>subject->diversification of crops</li>
     <li>subject_story->explored the cultivation of exotic plants, enriching diets and medicine</li>
@@ -64,12 +88,18 @@
     <li>subject_story->expanded the agricultural horizon, embracing the wealth of nature’s bounty</li>
     <li>subject_gerund->expanding the garden of civilization</li>
   -->
-  <VFET_Cultivation.generalRules.rulesStrings>TODO</VFET_Cultivation.generalRules.rulesStrings>
+  <VFET_Cultivation.generalRules.rulesStrings>
+    <li>subject->作物の多様化</li>
+    <li>subject_story->珍しい植物の栽培を探求し、食と薬の幅を広げた</li>
+    <li>subject_story->扱いにくい作物の栽培に挑み、多様な糧を確保した</li>
+    <li>subject_story->農業の地平を広げ、自然の恵みを享受した</li>
+    <li>subject_gerund->文明の庭を拡張すること</li>
+  </VFET_Cultivation.generalRules.rulesStrings>
 
   <!-- EN: culture -->
-  <VFET_Culture.label>TODO</VFET_Culture.label>
+  <VFET_Culture.label>文化</VFET_Culture.label>
   <!-- EN: Unlock the ability to conduct research, as well as develop ideological thoughts. Unlocks intellectual job. -->
-  <VFET_Culture.description>TODO</VFET_Culture.description>
+  <VFET_Culture.description>研究を行い、思想を発展させる能力を解放する。知的な仕事が解放される。</VFET_Culture.description>
   <!-- EN:
     <li>subject->the tapestry of thought</li>
     <li>subject_story->wove the fabric of their culture, rich with the threads of knowledge and belief</li>
@@ -77,12 +107,18 @@
     <li>subject_story->embarked on the quest for understanding, elevating their tribe with wisdom</li>
     <li>subject_gerund->cultivating the mind’s garden</li>
   -->
-  <VFET_Culture.generalRules.rulesStrings>TODO</VFET_Culture.generalRules.rulesStrings>
+  <VFET_Culture.generalRules.rulesStrings>
+    <li>subject->思考の織物</li>
+    <li>subject_story->知識と信念の糸で文化の布を織り上げた</li>
+    <li>subject_story->知的活動の成長を育み、未来に種を蒔いた</li>
+    <li>subject_story->理解への探求に乗り出し、部族を知恵で高めた</li>
+    <li>subject_gerund->心の庭を耕すこと</li>
+  </VFET_Culture.generalRules.rulesStrings>
 
   <!-- EN: fire -->
-  <VFET_Fire.label>TODO</VFET_Fire.label>
+  <VFET_Fire.label>火</VFET_Fire.label>
   <!-- EN: Unlock the capability to utilize and manage fire for various purposes. Unlocks firefighting job. -->
-  <VFET_Fire.description>TODO</VFET_Fire.description>
+  <VFET_Fire.description>火を利用・管理する能力を解放する。防火の仕事が解放される。</VFET_Fire.description>
   <!-- EN:
     <li>subject->discovery of fire</li>
     <li>subject_story->harnessed the primal force of fire, illuminating the darkness and warming the cold</li>
@@ -90,12 +126,18 @@
     <li>subject_story->laid the foundation of civilization with the control of this wild element</li>
     <li>subject_gerund->mastering the flame</li>
   -->
-  <VFET_Fire.generalRules.rulesStrings>TODO</VFET_Fire.generalRules.rulesStrings>
+  <VFET_Fire.generalRules.rulesStrings>
+    <li>subject->火の発見</li>
+    <li>subject_story->火という原始的な力を手懐け、闇を照らし寒さを癒した</li>
+    <li>subject_story->夜を活動と安全の時間に変え、捕食者を遠ざけた</li>
+    <li>subject_story->この野生の要素を制御することで文明の基礎を築いた</li>
+    <li>subject_gerund->炎を制すること</li>
+  </VFET_Fire.generalRules.rulesStrings>
 
   <!-- EN: furniture -->
-  <VFET_Furniture.label>TODO</VFET_Furniture.label>
+  <VFET_Furniture.label>家具</VFET_Furniture.label>
   <!-- EN: Introduce basic furniture crafting for improved living conditions. -->
-  <VFET_Furniture.description>TODO</VFET_Furniture.description>
+  <VFET_Furniture.description>生活環境を改善するための基本的な家具製作を導入する。</VFET_Furniture.description>
   <!-- EN:
     <li>subject->comforts of craftsmanship</li>
     <li>subject_story->carved the first symbols of comfort and utility from the heartwood of nature</li>
@@ -103,12 +145,18 @@
     <li>subject_story->elevated daily life, from survival to living, through the touch of creation</li>
     <li>subject_gerund->shaping the comforts of home</li>
   -->
-  <VFET_Furniture.generalRules.rulesStrings>TODO</VFET_Furniture.generalRules.rulesStrings>
+  <VFET_Furniture.generalRules.rulesStrings>
+    <li>subject->職人の快適さ</li>
+    <li>subject_story->自然の心材から快適さと実用性の最初の象徴を刻んだ</li>
+    <li>subject_story->手作り家具の技が居住空間を変えた</li>
+    <li>subject_story->生を生きるための感覚を高めた</li>
+    <li>subject_gerund->家の快適さを形作ること</li>
+  </VFET_Furniture.generalRules.rulesStrings>
 
   <!-- EN: hunting -->
-  <VFET_Hunting.label>TODO</VFET_Hunting.label>
+  <VFET_Hunting.label>狩猟</VFET_Hunting.label>
   <!-- EN: Establish methods for effective hunting and resource processing. Unlocks hunting job and allows you to craft throwspikes. -->
-  <VFET_Hunting.description>TODO</VFET_Hunting.description>
+  <VFET_Hunting.description>効果的な狩猟と資源加工の方法を確立する。狩猟の仕事が解放され、スロースパイクを作れるようになる。</VFET_Hunting.description>
   <!-- EN:
     <li>subject->the hunt’s mastery</li>
     <li>subject_story->honed the primal dance of predator and prey, ensuring the tribe’s sustenance</li>
@@ -116,12 +164,18 @@
     <li>subject_story->secured their place atop the food chain, through cunning and craft</li>
     <li>subject_gerund->capturing the wild’s bounty</li>
   -->
-  <VFET_Hunting.generalRules.rulesStrings>TODO</VFET_Hunting.generalRules.rulesStrings>
+  <VFET_Hunting.generalRules.rulesStrings>
+    <li>subject->狩りの熟練</li>
+    <li>subject_story->捕食と被食の原初の舞を磨き、部族の糧を確保した</li>
+    <li>subject_story->狩りの道具を作り、野の試練に技をもたらした</li>
+    <li>subject_story->機知と技で食物連鎖の頂点に立った</li>
+    <li>subject_gerund->野の恵みを捕らえること</li>
+  </VFET_Hunting.generalRules.rulesStrings>
 
   <!-- EN: medicine -->
-  <VFET_Medicine.label>TODO</VFET_Medicine.label>
+  <VFET_Medicine.label>医療</VFET_Medicine.label>
   <!-- EN: Introduce basic herbal treatment methods. -->
-  <VFET_Medicine.description>TODO</VFET_Medicine.description>
+  <VFET_Medicine.description>基本的な薬草治療法を導入する。</VFET_Medicine.description>
   <!-- EN:
     <li>subject->foundations of healing</li>
     <li>subject_story->unveiled the curative powers of nature, blending herbs into the first remedies</li>
@@ -129,12 +183,18 @@
     <li>subject_story->paved the path for the healing arts, bridging the gap between ailment and health</li>
     <li>subject_gerund->weaving the first threads of wellness</li>
   -->
-  <VFET_Medicine.generalRules.rulesStrings>TODO</VFET_Medicine.generalRules.rulesStrings>
+  <VFET_Medicine.generalRules.rulesStrings>
+    <li>subject->治療の基礎</li>
+    <li>subject_story->自然の治癒力を明らかにし、薬草を初めての療法に混ぜ合わせた</li>
+    <li>subject_story->野から得た薬で仲間の苦痛を和らげた</li>
+    <li>subject_story->治癒の技を開き、病と健康の間を繋いだ</li>
+    <li>subject_gerund->最初の健康の糸を紡ぐこと</li>
+  </VFET_Medicine.generalRules.rulesStrings>
 
   <!-- EN: mining -->
-  <VFET_Mining.label>TODO</VFET_Mining.label>
+  <VFET_Mining.label>採掘</VFET_Mining.label>
   <!-- EN: Develop methods to extract resources from the earth using force. Unlocks mining job. -->
-  <VFET_Mining.description>TODO</VFET_Mining.description>
+  <VFET_Mining.description>力を使って大地から資源を採取する方法を開発する。採掘の仕事が解放される。</VFET_Mining.description>
   <!-- EN:
     <li>subject->unearthing the earth’s secrets</li>
     <li>subject_story->delved into the belly of the earth to claim its hidden riches</li>
@@ -142,12 +202,18 @@
     <li>subject_story->laid the groundwork for advancements with the raw materials of progress</li>
     <li>subject_gerund->chiseling the path to prosperity</li>
   -->
-  <VFET_Mining.generalRules.rulesStrings>TODO</VFET_Mining.generalRules.rulesStrings>
+  <VFET_Mining.generalRules.rulesStrings>
+    <li>subject->地の秘密を露わにすること</li>
+    <li>subject_story->地の腹に潜り込み、隠れた富を掘り出した</li>
+    <li>subject_story->石を穿つ道具を作り、内部の鉱物を明らかにした</li>
+    <li>subject_story->進歩の原料となる原料で基盤を築いた</li>
+    <li>subject_gerund->繁栄への道を彫ること</li>
+  </VFET_Mining.generalRules.rulesStrings>
 
   <!-- EN: tribalwear -->
-  <VFET_Tribalwear.label>TODO</VFET_Tribalwear.label>
+  <VFET_Tribalwear.label>部族衣装</VFET_Tribalwear.label>
   <!-- EN: Learn to craft traditional tribal attire for various purposes. -->
-  <VFET_Tribalwear.description>TODO</VFET_Tribalwear.description>
+  <VFET_Tribalwear.description>さまざまな目的に合わせた伝統的な部族衣装を作る方法を学ぶ。</VFET_Tribalwear.description>
   <!-- EN:
     <li>subject->weaving identity and protection</li>
     <li>subject_story->fashioned attire that spoke of culture and safeguarded against the harsh world</li>
@@ -155,12 +221,18 @@
     <li>subject_story->crafted garments that would become the hallmark of their tribe’s identity</li>
     <li>subject_gerund->dressing the essence of a people</li>
   -->
-  <VFET_Tribalwear.generalRules.rulesStrings>TODO</VFET_Tribalwear.generalRules.rulesStrings>
+  <VFET_Tribalwear.generalRules.rulesStrings>
+    <li>subject->アイデンティティと防護の織り</li>
+    <li>subject_story->文化を語り、過酷な世界から守る装いを作り上げた</li>
+    <li>subject_story->機能性と伝統を融合させ、人々の精神を纏わせた</li>
+    <li>subject_story->部族の象徴となる衣を作り出した</li>
+    <li>subject_gerund->人々の本質を装うこと</li>
+  </VFET_Tribalwear.generalRules.rulesStrings>
 
   <!-- EN: weapons -->
-  <VFET_Weapons.label>TODO</VFET_Weapons.label>
+  <VFET_Weapons.label>武器</VFET_Weapons.label>
   <!-- EN: Introduce basic weaponry for defense against enemies. -->
-  <VFET_Weapons.description>TODO</VFET_Weapons.description>
+  <VFET_Weapons.description>敵から身を守るための基本的な武器を導入する。</VFET_Weapons.description>
   <!-- EN:
     <li>subject->the edge of survival</li>
     <li>subject_story->forged the first weapons, steeling their tribe against threats</li>
@@ -168,6 +240,12 @@
     <li>subject_story->ensured their survival through the innovation of defense and offense</li>
     <li>subject_gerund->arming the hands of fate</li>
   -->
-  <VFET_Weapons.generalRules.rulesStrings>TODO</VFET_Weapons.generalRules.rulesStrings>
+  <VFET_Weapons.generalRules.rulesStrings>
+    <li>subject->生存の刃</li>
+    <li>subject_story->最初の武器を鍛え、部族を脅威から守った</li>
+    <li>subject_story->武器の技で自然と争いの均衡を保った</li>
+    <li>subject_story->防御と攻撃の革新で生存を確かなものにした</li>
+    <li>subject_gerund->運命の手に武を授けること</li>
+  </VFET_Weapons.generalRules.rulesStrings>
 
 </LanguageData>
