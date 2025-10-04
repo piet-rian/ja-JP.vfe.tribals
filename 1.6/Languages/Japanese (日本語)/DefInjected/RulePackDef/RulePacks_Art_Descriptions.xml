@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN:
     <li>r_art_description->[physical_description_root] [context_sentence]</li>
     <li>circumstance_group->[circumstance_phrase]</li>
@@ -15,14 +15,30 @@
     <li>painting->work</li>
     <li>painting->piece</li>
   -->
-  <ArtDescription_NeolithicFloorPaintingRoot_HasTale.rulePack.rulesStrings>TODO</ArtDescription_NeolithicFloorPaintingRoot_HasTale.rulePack.rulesStrings>
-  
+  <ArtDescription_NeolithicFloorPaintingRoot_HasTale.rulePack.rulesStrings>
+    <li>r_art_description-> [physical_description_root] [context_sentence]</li>
+    <li>circumstance_group-> [circumstance_phrase]</li>
+    <li>desc_sentence_group-> [desc_sentence] [style_group]</li>
+    <li>context_sentence->この[depiction]は[DATE]に起きた[tale_noun]を表しています。</li>
+    <li>context_sentence->この[depiction]は[DATE]の[tale_noun]に関係しています。</li>
+    <li>context_sentence->この[depiction]は[DATE]に関する[tale_noun]の物語を語っています。</li>
+    <li>physical_description_root->この[painting]は[depicts] [image]を描いています。 [desc_sentence_group]</li>
+    <li>physical_description_root->この[painting]には[image]の[depiction]が描かれています。 [desc_sentence_group]</li>
+    <li>physical_description_root->この[painting]の上には[image]の[depiction]があります。 [desc_sentence_group]</li>
+    <li>painting->絵画</li>
+    <li>painting->作品</li>
+    <li>painting->一作</li>
+  </ArtDescription_NeolithicFloorPaintingRoot_HasTale.rulePack.rulesStrings>
+
   <!-- EN:
     <li>r_art_description->[physical_description_root]</li>
     <li>desc_sentence_group->[style_group]</li>
   -->
-  <ArtDescription_NeolithicFloorPaintingRoot_Taleless.rulePack.rulesStrings>TODO</ArtDescription_NeolithicFloorPaintingRoot_Taleless.rulePack.rulesStrings>
-  
+  <ArtDescription_NeolithicFloorPaintingRoot_Taleless.rulePack.rulesStrings>
+    <li>r_art_description-> [physical_description_root]</li>
+    <li>desc_sentence_group-> [style_group]</li>
+  </ArtDescription_NeolithicFloorPaintingRoot_Taleless.rulePack.rulesStrings>
+
   <!-- EN:
     <li>style_group->[artextra_clause]. [style_clause].</li>
     <li>style_group->[style_clause]. [artconjunction] [artextra_clause].</li>
@@ -153,6 +169,134 @@
     <li>Quantity_adjphrase->a detailed depiction of several</li>
     <li>Quantity_adjphrase->an abstract representation of many</li>
   -->
-  <VFE_NeolithicFloorPaintingDescriptionUtility_Global.rulePack.rulesStrings>TODO</VFE_NeolithicFloorPaintingDescriptionUtility_Global.rulePack.rulesStrings>
-  
+  <VFE_NeolithicFloorPaintingDescriptionUtility_Global.rulePack.rulesStrings>
+    <li>style_group->[artextra_clause]。 [style_clause]。</li>
+    <li>style_group->[style_clause]。 [artconjunction] [artextra_clause]。</li>
+    <li>style_group->[style_clause]。</li>
+    <li>style_group->[artextra_clause]。</li>
+    <li>style_group-></li>
+    <li>artconjunction(p=6)-></li>
+    <li>artconjunction->興味深く、</li>
+    <li>artconjunction->絵画に深みを加え、</li>
+    <li>artconjunction->さらに、</li>
+    <li>artconjunction->印象的に、</li>
+    <li>artconjunction->喚起的に、</li>
+    <li>artconjunction->古代の物語を反映し、</li>
+    <li>artconjunction->先祖のルーツと繋がり、</li>
+    <li>artextra_clause->この絵は[subimageplural]が[activity]に従事している様子を示しています</li>
+    <li>artextra_clause->[subimagesingle]が[side_position]に描かれています</li>
+    <li>artextra_clause->[Community]の生き生きとした場面を描いています</li>
+    <li>artextra_clause->[subimageplural]の集団が[TerrainFeature]の近くに集まっています</li>
+    <li>artextra_clause->[Quantity_adjphrase]の[subimagesingle]が古代の物語を示しています</li>
+    <li>artextra_clause->前景を支配する[subimageplural]の複雑な模様</li>
+    <li>artextra_clause->中心に[subimagesingle]が描かれ、[ConceptAny]の物語を語っています</li>
+    <li>subimageany->[subimagesingle]</li>
+    <li>subimageany->[subimageplural]</li>
+    <li>subimagesingle(p=6)->古代の人間の姿</li>
+    <li>subimagesingle->原始的な住居</li>
+    <li>subimagesingle->原生の木</li>
+    <li>subimagesingle->太陽や月の表現</li>
+    <li>subimagesingle->神秘的なシンボル</li>
+    <li>subimagesingle->天体</li>
+    <li>subimagesingle->先史時代の獣</li>
+    <li>subimagesingle->手形模様</li>
+    <li>subimageplural(p=5)->様式化された動物</li>
+    <li>subimageplural->原始的な幾何学模様</li>
+    <li>subimageplural->自然のモチーフ</li>
+    <li>subimageplural->手形のパターン</li>
+    <li>subimageplural->霊的なシンボル</li>
+    <li>subimageplural->天体</li>
+    <li>side_position->中央に</li>
+    <li>side_position->上部に</li>
+    <li>side_position->下半分を占める</li>
+    <li>side_position->右側に、自然な流れを作るように</li>
+    <li>side_position->左側に、主題へ注意を引くように</li>
+    <li>side_position->キャンバス全体に均等に広がっている</li>
+    <li>side_position->調和のとれたパターンで散らばっている</li>
+    <li>style_clause(p=4)->この作品は[ConceptAny]を[symbolizes]しています</li>
+    <li>style_clause->[artstyle_adj]な筆致で[ConceptAny]を描いている</li>
+    <li>style_clause->[artstyle_adj]な模様を通して[ConceptAny]の本質を反映している</li>
+    <li>style_clause->その[artstyle_adj]な表現は豊かな歴史を体現している</li>
+    <li>style_clause->この絵画は[ConceptAny]に対する[artstyle_adj]なアプローチを示している</li>
+    <li>symbolizes->象徴する</li>
+    <li>symbolizes->表す</li>
+    <li>symbolizes->こだまする</li>
+    <li>symbolizes->共鳴する</li>
+    <li>symbolizes->反映する</li>
+    <li>symbolizes->体現する</li>
+    <li>symbolizes->象徴する</li>
+    <li>symbolizes->象徴しているように見える</li>
+    <li>symbolizes->表している</li>
+    <li>symbolizes->表現しているように見える</li>
+    <li>symbolizes->思い起こさせる</li>
+    <li>symbolizes->の感情を伝える</li>
+    <li>symbolizes->見る者に思い起こさせる</li>
+    <li>symbolizes->作者の〜を表す</li>
+    <li>symbolizes->〜という概念を示唆する</li>
+    <li>artstyle_adj->土のようで有機的</li>
+    <li>artstyle_adj->原始的</li>
+    <li>artstyle_adj->生のままで自然な</li>
+    <li>artstyle_adj->幾何学的</li>
+    <li>artstyle_adj->豊かにテクスチャがある</li>
+    <li>artstyle_adj->シンプルだが深遠</li>
+    <li>artstyle_adj->精緻で詳細な</li>
+    <li>artstyle_adj->渦巻く模様で満ちた</li>
+    <li>artstyle_adj->抽象的で象徴的</li>
+    <li>artstyle_adj->鮮やかで生き生きとした</li>
+    <li>artstyle_adj->控えめで穏やか</li>
+    <li>artstyle_adj->粗く土臭い</li>
+    <li>artstyle_adj->大胆で躍動的</li>
+    <li>artstyle_adj->調和が取れている</li>
+    <li>artstyle_adj->質感があり触覚的</li>
+    <li>artstyle_adj->精神的に響く</li>
+    <li>ConceptAny->生と死の循環</li>
+    <li>ConceptAny->自然との交感</li>
+    <li>ConceptAny->人と宇宙の精神的な結びつき</li>
+    <li>ConceptAny->自然界の調和</li>
+    <li>ConceptAny->古代の儀式と祭礼</li>
+    <li>ConceptAny->神話的な物語</li>
+    <li>ConceptAny->人間存在の複雑さ</li>
+    <li>ConceptAny->古代文明の神秘</li>
+    <li>ConceptAny->宇宙の謎</li>
+    <li>ConceptAny->生命の相互関係</li>
+    <li>ConceptAny->季節の循環</li>
+    <li>ConceptAny->古代の物語伝承</li>
+    <li>ConceptAny->自然の驚異</li>
+    <li>ConceptAny->神聖な幾何学</li>
+    <li>ConceptAny->精神的覚醒</li>
+    <li>activity->儀式的な踊り</li>
+    <li>activity->狩猟の場面</li>
+    <li>activity->集会や祝祭</li>
+    <li>activity->農作業</li>
+    <li>activity->先祖の儀式</li>
+    <li>activity->物語を語る場面</li>
+    <li>activity->精神的な儀式</li>
+    <li>activity->物々交換の場面</li>
+    <li>activity->共同体の結びつきの瞬間</li>
+    <li>activity->芸術制作に励む集団</li>
+    <li>Community->新石器時代の村落</li>
+    <li>Community->古代の集いの場</li>
+    <li>Community->原始的な集落</li>
+    <li>Community->活気ある市場</li>
+    <li>Community->神聖な儀式の場</li>
+    <li>Community->肥沃な農地</li>
+    <li>Community->部族の活気ある集い</li>
+    <li>TerrainFeature->水域</li>
+    <li>TerrainFeature->山の背景</li>
+    <li>TerrainFeature->密集した森林</li>
+    <li>TerrainFeature->野生の草花のある野原</li>
+    <li>TerrainFeature->広がる平原</li>
+    <li>TerrainFeature->穏やかな川岸</li>
+    <li>TerrainFeature->生き生きとしたオアシス</li>
+    <li>TerrainFeature->聖なる森</li>
+    <li>Quantity_adjphrase->多くの</li>
+    <li>Quantity_adjphrase->いくつかの散在する</li>
+    <li>Quantity_adjphrase->多数が絡み合う</li>
+    <li>Quantity_adjphrase->一連の</li>
+    <li>Quantity_adjphrase->調和のとれた列</li>
+    <li>Quantity_adjphrase->生き生きとした集まり</li>
+    <li>Quantity_adjphrase->いくつかの細部まで描かれた</li>
+    <li>Quantity_adjphrase->多くを抽象的に表現した</li>
+  </VFE_NeolithicFloorPaintingDescriptionUtility_Global.rulePack.rulesStrings>
+
 </LanguageData>
