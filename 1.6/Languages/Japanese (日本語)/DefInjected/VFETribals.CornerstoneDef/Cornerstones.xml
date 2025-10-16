@@ -5,24 +5,21 @@
   <VFET_BreathOfTheAncients.label>古代の息吹</VFET_BreathOfTheAncients.label>
   <!-- EN: Toxic resistance is increased by 0.3 -->
   <VFET_BreathOfTheAncients.description>毒耐性が0.3増加します</VFET_BreathOfTheAncients.description>
-  <!-- EN: The lineage of {0} claims they inherit the resistance from their ancestors, capable of
-  withstanding toxic environments. -->
+  <!-- EN: The lineage of {0} claims they inherit the resistance from their ancestors, capable of withstanding toxic environments. -->
   <VFET_BreathOfTheAncients.blurb>{0}の血統は祖先から毒環境への耐性を受け継いでいると主張します。</VFET_BreathOfTheAncients.blurb>
 
   <!-- EN: Charismatic Enclave -->
   <VFET_CharismaticEnclave.label>カリスマの集団</VFET_CharismaticEnclave.label>
   <!-- EN: Social impact of all colonists is increased by 10%. -->
   <VFET_CharismaticEnclave.description>入植者全員の社交的影響力が10%増加します。</VFET_CharismaticEnclave.description>
-  <!-- EN: Every citizen of {0} is raised with the virtues of empathy and charisma, enhancing their
-  social prowess. -->
+  <!-- EN: Every citizen of {0} is raised with the virtues of empathy and charisma, enhancing their social prowess. -->
   <VFET_CharismaticEnclave.blurb>{0}の市民は共感とカリスマ性の美徳を持って育てられ、社交力が高まります。</VFET_CharismaticEnclave.blurb>
 
   <!-- EN: Chemists of Efficacy -->
   <VFET_ChemistsOfEfficacy.label>効能の化学者</VFET_ChemistsOfEfficacy.label>
   <!-- EN: The speed of drug synthesis is 15% faster. -->
   <VFET_ChemistsOfEfficacy.description>薬品合成速度が15%速くなります。</VFET_ChemistsOfEfficacy.description>
-  <!-- EN: {0}'s drug synthesizers work at a blistering pace, ensuring medicines and drugs are
-  always available. -->
+  <!-- EN: {0}'s drug synthesizers work at a blistering pace, ensuring medicines and drugs are always available. -->
   <VFET_ChemistsOfEfficacy.blurb>{0}の薬品合成者は非常に速く作業し、常に薬や医薬品を用意します。</VFET_ChemistsOfEfficacy.blurb>
 
   <!-- EN: Children of the Scorching Sun -->
@@ -36,32 +33,28 @@
   <VFET_CreedOfTheStoic.label>ストイックの信条</VFET_CreedOfTheStoic.label>
   <!-- EN: Pain threshold, at which colonists go unconscious due to pain, is increased by 10%. -->
   <VFET_CreedOfTheStoic.description>痛みによる気絶の閾値が10%増加します。</VFET_CreedOfTheStoic.description>
-  <!-- EN: Pain is seen as a teacher in {0}, and its inhabitants have a higher tolerance because of
-  this belief. -->
+  <!-- EN: Pain is seen as a teacher in {0}, and its inhabitants have a higher tolerance because of this belief. -->
   <VFET_CreedOfTheStoic.blurb>{0}では痛みを教師とみなし、住民はこの信念により高い耐性を持っています。</VFET_CreedOfTheStoic.blurb>
 
   <!-- EN: Culinary Connoisseurs -->
   <VFET_CulinaryConnoisseurs.label>料理の達人</VFET_CulinaryConnoisseurs.label>
   <!-- EN: Chances of causing food poisoning are reduced by 20%. -->
   <VFET_CulinaryConnoisseurs.description>食中毒の発生率が20%減少します。</VFET_CulinaryConnoisseurs.description>
-  <!-- EN: The kitchens of {0} take utmost care in food preparation, ensuring their meals are both
-  delicious and safe. -->
+  <!-- EN: The kitchens of {0} take utmost care in food preparation, ensuring their meals are both delicious and safe. -->
   <VFET_CulinaryConnoisseurs.blurb>{0}の厨房は調理に細心の注意を払い、美味しく安全な食事を提供します。</VFET_CulinaryConnoisseurs.blurb>
 
   <!-- EN: Cult of Inner Strength -->
   <VFET_CultOfInnerStrength.label>内なる強さの教団</VFET_CultOfInnerStrength.label>
   <!-- EN: People are more resilient and their mental break threshold is decreased by 5%. -->
   <VFET_CultOfInnerStrength.description>精神崩壊の閾値が5%減少します。</VFET_CultOfInnerStrength.description>
-  <!-- EN: The inhabitants of {0} are taught from a young age to cultivate mental resilience,
-  believing in the strength of the mind. -->
+  <!-- EN: The inhabitants of {0} are taught from a young age to cultivate mental resilience, believing in the strength of the mind. -->
   <VFET_CultOfInnerStrength.blurb>{0}の住民は幼少期から精神的な強さを育む教育を受け、心の力を信じています。</VFET_CultOfInnerStrength.blurb>
 
   <!-- EN: Custodians of Purity -->
   <VFET_CustodiansOfPurity.label>純潔の守護者</VFET_CustodiansOfPurity.label>
   <!-- EN: Cleaning speed is increased by 20%. -->
   <VFET_CustodiansOfPurity.description>掃除速度が20%増加します。</VFET_CustodiansOfPurity.description>
-  <!-- EN: Cleanliness is next to godliness for the people of {0}, who believe in swift and
-  efficient sanitation. -->
+  <!-- EN: Cleanliness is next to godliness for the people of {0}, who believe in swift and efficient sanitation. -->
   <VFET_CustodiansOfPurity.blurb>{0}の人々は清潔さを神聖視し、迅速かつ効率的な衛生管理を信条としています。</VFET_CustodiansOfPurity.blurb>
 
   <!-- EN: Dancers of the Battlefield -->
@@ -75,8 +68,7 @@
   <VFET_DevotedMiners.label>献身的な鉱夫</VFET_DevotedMiners.label>
   <!-- EN: Mining speed is increased by 10%. -->
   <VFET_DevotedMiners.description>採掘速度が10%上昇します。</VFET_DevotedMiners.description>
-  <!-- EN: The landscape of {0} has trained its miners to extract resources swiftly and
-  proficiently. -->
+  <!-- EN: The landscape of {0} has trained its miners to extract resources swiftly and proficiently. -->
   <VFET_DevotedMiners.blurb>{0}の地形が鉱夫たちを鍛え、資源を素早く効率的に採掘できるようにします。</VFET_DevotedMiners.blurb>
 
   <!-- EN: Diligent Doers -->
@@ -118,8 +110,7 @@
   <VFET_GuildOfDiligence.label>勤勉のギルド</VFET_GuildOfDiligence.label>
   <!-- EN: Global work speed is increased by 5%. -->
   <VFET_GuildOfDiligence.description>全体の作業速度が5%上昇します。</VFET_GuildOfDiligence.description>
-  <!-- EN: "Time is gold," a mantra etched deep within the ethos of {0}, driving them to work
-  efficiently. -->
+  <!-- EN: "Time is gold," a mantra etched deep within the ethos of {0}, driving them to work efficiently. -->
   <VFET_GuildOfDiligence.blurb>{0}には「時は金なり」という教えが深く根付き、効率的な働きぶりを促します。</VFET_GuildOfDiligence.blurb>
 
   <!-- EN: Harvesters of Bounty -->
@@ -133,24 +124,21 @@
   <VFET_HealersOfSwiftHand.label>迅速な手の治療者</VFET_HealersOfSwiftHand.label>
   <!-- EN: Medical tend speed is increased by 10%. -->
   <VFET_HealersOfSwiftHand.description>治療の速度が10%上昇します。</VFET_HealersOfSwiftHand.description>
-  <!-- EN: The medical artisans of {0} are renowned for their swift treatments, ensuring minimal
-  suffering. -->
+  <!-- EN: The medical artisans of {0} are renowned for their swift treatments, ensuring minimal suffering. -->
   <VFET_HealersOfSwiftHand.blurb>{0}の医療職人は迅速な治療で知られ、苦痛を最小限に抑えます。</VFET_HealersOfSwiftHand.blurb>
 
   <!-- EN: Keepers of the Pasture -->
   <VFET_KeepersOfThePasture.label>牧草地の管理者</VFET_KeepersOfThePasture.label>
   <!-- EN: The yield of resources obtained from animal handling is increased by 15%. -->
   <VFET_KeepersOfThePasture.description>家畜の取り扱いから得られる資源の収量が15%増加します。</VFET_KeepersOfThePasture.description>
-  <!-- EN: The bond between {0} and their livestock ensures that they reap the most from their
-  herds. -->
+  <!-- EN: The bond between {0} and their livestock ensures that they reap the most from their herds. -->
   <VFET_KeepersOfThePasture.blurb>{0}とその家畜の絆が、畜産から最大の恵みをもたらします。</VFET_KeepersOfThePasture.blurb>
 
   <!-- EN: Lorekeepers' Tradition -->
   <VFET_LorekeepersTradition.label>知識守りの伝統</VFET_LorekeepersTradition.label>
   <!-- EN: Learning rate of all skills is increased by 10%. -->
   <VFET_LorekeepersTradition.description>全スキルの習得速度が10%上昇します。</VFET_LorekeepersTradition.description>
-  <!-- EN: Every child in {0} is taught the value of knowledge, ensuring a society of quick
-  learners. -->
+  <!-- EN: Every child in {0} is taught the value of knowledge, ensuring a society of quick learners. -->
   <VFET_LorekeepersTradition.blurb>{0}のすべての子供は知識の価値を教え込まれ、学習の早い社会が築かれます。</VFET_LorekeepersTradition.blurb>
 
   <!-- EN: Marksmen -->
@@ -192,8 +180,7 @@
   <VFET_NomadsOfAbundance.label>豊穣の遊牧民</VFET_NomadsOfAbundance.label>
   <!-- EN: Travellers forage additional 0.3 nutrition per day. -->
   <VFET_NomadsOfAbundance.description>旅人の採集量が1日あたり追加で0.3の栄養を得ます。</VFET_NomadsOfAbundance.description>
-  <!-- EN: The nomadic traditions of {0} have honed their foraging skills, ensuring no traveler goes
-  hungry. -->
+  <!-- EN: The nomadic traditions of {0} have honed their foraging skills, ensuring no traveler goes hungry. -->
   <VFET_NomadsOfAbundance.blurb>{0}の遊牧の伝統は採集技術を磨き、旅人が飢えないようにします。</VFET_NomadsOfAbundance.blurb>
 
   <!-- EN: Order of the Mending Hands -->
@@ -207,32 +194,28 @@
   <VFET_PathOfSwiftWinds.label>疾風の道</VFET_PathOfSwiftWinds.label>
   <!-- EN: Movement speed is increased by +0.15. -->
   <VFET_PathOfSwiftWinds.description>移動速度が+0.15増加します。</VFET_PathOfSwiftWinds.description>
-  <!-- EN: The people of {0} revere the winds that guide their every step, believing swift movement
-  is a sign of favor. -->
+  <!-- EN: The people of {0} revere the winds that guide their every step, believing swift movement is a sign of favor. -->
   <VFET_PathOfSwiftWinds.blurb>{0}の人々は風を崇拝し、迅速な移動を恩寵の証と考えます。</VFET_PathOfSwiftWinds.blurb>
 
   <!-- EN: Physicians of Precision -->
   <VFET_PhysiciansOfPrecision.label>精確の医師</VFET_PhysiciansOfPrecision.label>
   <!-- EN: Medical tend quality is improved by 5%. -->
   <VFET_PhysiciansOfPrecision.description>治療品質が5%向上します。</VFET_PhysiciansOfPrecision.description>
-  <!-- EN: Through years of dedication, {0}'s medical practitioners have honed their craft to near
-  perfection. -->
+  <!-- EN: Through years of dedication, {0}'s medical practitioners have honed their craft to near perfection. -->
   <VFET_PhysiciansOfPrecision.blurb>{0}の医療従事者は多年の研鑽によりほぼ完璧な腕を持っています。</VFET_PhysiciansOfPrecision.blurb>
 
   <!-- EN: Protectors of Order -->
   <VFET_ProtectorsOfOrder.label>秩序の守護者</VFET_ProtectorsOfOrder.label>
   <!-- EN: Chance to successfully arrest someone is increased by 15%. -->
   <VFET_ProtectorsOfOrder.description>拘束に成功する確率が15%向上します。</VFET_ProtectorsOfOrder.description>
-  <!-- EN: {0} has a reputation for its skilled enforcers, ensuring peace by swiftly apprehending
-  troublemakers. -->
+  <!-- EN: {0} has a reputation for its skilled enforcers, ensuring peace by swiftly apprehending troublemakers. -->
   <VFET_ProtectorsOfOrder.blurb>{0}は熟練の執行者で知られ、素早く騒動を鎮めます。</VFET_ProtectorsOfOrder.blurb>
 
   <!-- EN: Quickdraw Masters -->
   <VFET_QuickdrawMasters.label>クイックドローマスター</VFET_QuickdrawMasters.label>
   <!-- EN: Aiming a ranged weapon takes 10% less time. -->
   <VFET_QuickdrawMasters.description>狙いを定める時間が10%短縮されます。</VFET_QuickdrawMasters.description>
-  <!-- EN: In the heart of {0}, aiming swiftly and shooting is considered both an art and a vital
-  survival skill. -->
+  <!-- EN: In the heart of {0}, aiming swiftly and shooting is considered both an art and a vital survival skill. -->
   <VFET_QuickdrawMasters.blurb>{0}では迅速な狙撃が芸術であり生存の技です。</VFET_QuickdrawMasters.blurb>
 
   <!-- EN: Ritual of Quick Feast -->
@@ -253,50 +236,48 @@
   <VFET_SeekersOfHiddenDepths.label>隠された深淵の探索者</VFET_SeekersOfHiddenDepths.label>
   <!-- EN: Deep drilling speed is increased by 15%. -->
   <VFET_SeekersOfHiddenDepths.description>深部掘削速度が15%向上します。</VFET_SeekersOfHiddenDepths.description>
-  <!-- EN: Driven by the promise of riches beneath, {0}'s drillers penetrate the rock at
-  unparalleled speeds. -->
+  <!-- EN: Driven by the promise of riches beneath, {0}'s drillers penetrate the rock at unparalleled speeds. -->
   <VFET_SeekersOfHiddenDepths.blurb>富を求める欲望に駆られ、{0}の掘削者は他に類を見ない速度で岩盤を貫きます。</VFET_SeekersOfHiddenDepths.blurb>
 
   <!-- EN: Shadows of the Hunt -->
-  <VFET_BreathOfTheAncients.label>古代の息吹</VFET_BreathOfTheAncients.label>
-  <VFET_BreathOfTheAncients.description>毒耐性が0.3増加します</VFET_BreathOfTheAncients.description>
-  <VFET_BreathOfTheAncients.blurb>{0}の血統は祖先から毒環境への耐性を受け継いでいると主張します。</VFET_BreathOfTheAncients.blurb>
+  <VFET_ShadowsOfTheHunt.label>狩りの影</VFET_ShadowsOfTheHunt.label>
+  <!-- EN: Hunting stealth is increased by 20%. -->
+  <VFET_ShadowsOfTheHunt.description>狩り(獲物の逆襲確率への減衰率)が20%向上します。</VFET_ShadowsOfTheHunt.description>
   <!-- EN: The hunters of {0} move silently, becoming one with nature to claim their prey. -->
   <VFET_ShadowsOfTheHunt.blurb>{0}の狩人たちは静かに動き、自然と一体となって獲物を仕留めます。</VFET_ShadowsOfTheHunt.blurb>
-  <VFET_CharismaticEnclave.label>カリスマの集団</VFET_CharismaticEnclave.label>
-  <VFET_CharismaticEnclave.description>入植者全員の社交的影響力が10%増加します。</VFET_CharismaticEnclave.description>
-  <VFET_CharismaticEnclave.blurb>{0}の市民は共感とカリスマ性の美徳を持って育てられ、社交力が高まります。</VFET_CharismaticEnclave.blurb>
+
+  <!-- EN: Sowers of Abundance -->
+  <VFET_SowersOfAbundance.label>豊穣の種まき人</VFET_SowersOfAbundance.label>
   <!-- EN: Plant work speed is increased by 15%. -->
   <VFET_SowersOfAbundance.description>植物作業の速度が15%上昇します。</VFET_SowersOfAbundance.description>
-  <VFET_ChemistsOfEfficacy.label>効能の化学者</VFET_ChemistsOfEfficacy.label>
-  <VFET_ChemistsOfEfficacy.description>薬品合成速度が15%速くなります。</VFET_ChemistsOfEfficacy.description>
-  <VFET_ChemistsOfEfficacy.blurb>{0}の薬品合成者は非常に速く作業し、常に薬や医薬品を用意します。</VFET_ChemistsOfEfficacy.blurb>
+  <!-- EN: Through careful nurturing, the farmers of {0} tend to their crops with unparalleled expertise. -->
+  <VFET_SowersOfAbundance.blurb>{0} の農家は、細心の注意を払って育てることで、比類のない専門知識をもって作物を育てています。</VFET_SowersOfAbundance.blurb>
+
   <!-- EN: Stewards of the Vein -->
   <VFET_StewardsOftheVein.label>鉱脈の管理人</VFET_StewardsOftheVein.label>
-  <VFET_ChildrenOfTheScorchingSun.label>灼熱の太陽の子</VFET_ChildrenOfTheScorchingSun.label>
-  <VFET_ChildrenOfTheScorchingSun.description>快適な最高気温が5度高くなります。</VFET_ChildrenOfTheScorchingSun.description>
-  <VFET_ChildrenOfTheScorchingSun.blurb>{0}の灼熱の土地が人々を鍛え、暑さに強くします。</VFET_ChildrenOfTheScorchingSun.blurb>
+  <!-- EN: The resource yield of mining jobs is increased by 10%. -->
+  <VFET_StewardsOftheVein.description>採掘の資源収量が 10% 増加します。</VFET_StewardsOftheVein.description>
+  <!-- EN: Every strike in {0}'s mines promises a bountiful reward, thanks to their efficient extraction techniques. -->
   <VFET_StewardsOftheVein.blurb>{0}の一掘りは常に豊かな報酬を約束します。効率的な採取技術の賜物です。</VFET_StewardsOftheVein.blurb>
 
-  <VFET_CreedOfTheStoic.label>ストイックの信条</VFET_CreedOfTheStoic.label>
-  <VFET_CreedOfTheStoic.description>痛みによる気絶の閾値が10%増加します。</VFET_CreedOfTheStoic.description>
-  <VFET_CreedOfTheStoic.blurb>{0}では痛みを教師とみなし、住民はこの信念により高い耐性を持っています。</VFET_CreedOfTheStoic.blurb>
-  <VFET_SurgeonsOfExcellence.description>外科手術の処置速度が向上します。</VFET_SurgeonsOfExcellence.description>
-  <!-- EN: The surgical theatres of {0} are a sight to behold, with operations being completed at
-  remarkable speeds. -->
-  <VFET_CulinaryConnoisseurs.label>料理の達人</VFET_CulinaryConnoisseurs.label>
-  <VFET_CulinaryConnoisseurs.description>食中毒の発生率が20%減少します。</VFET_CulinaryConnoisseurs.description>
-  <VFET_CulinaryConnoisseurs.blurb>{0}の厨房は調理に細心の注意を払い、美味しく安全な食事を提供します。</VFET_CulinaryConnoisseurs.blurb>
+  <!-- EN: Surgeons of Excellence -->
+  <VFET_SurgeonsOfExcellence.label>優秀な外科医</VFET_SurgeonsOfExcellence.label>
+  <!-- EN: Medical operation speed is 15% faster. -->
+  <VFET_SurgeonsOfExcellence.description>外科手術の処置速度が15%向上します。</VFET_SurgeonsOfExcellence.description>
+  <!-- EN: The surgical theatres of {0} are a sight to behold, with operations being completed at remarkable speeds. -->
+  <VFET_SurgeonsOfExcellence.blurb>{0} の手術室は見事な光景で、手術は驚くべき速さで完了します。</VFET_SurgeonsOfExcellence.blurb>
+
+  <!-- EN: Tech Scavengers -->
   <VFET_TechScavengers.label>技術の拾荒者</VFET_TechScavengers.label>
   <!-- EN: Yield of resources obtained from shredding mechanoids is 20% higher. -->
-  <VFET_CultOfInnerStrength.label>内なる強さの教団</VFET_CultOfInnerStrength.label>
-  <VFET_CultOfInnerStrength.description>精神崩壊の閾値が5%減少します。</VFET_CultOfInnerStrength.description>
-  <VFET_CultOfInnerStrength.blurb>{0}の住民は幼少期から精神的な強さを育む教育を受け、心の力を信じています。</VFET_CultOfInnerStrength.blurb>
+  <VFET_TechScavengers.description>メカノイドを粉砕して得られる資源の収量が 20% 増加します。</VFET_TechScavengers.description>
+  <!-- EN: With adept hands and discerning eyes, {0} makes the most out of every defeated mechanoid. -->
+  <VFET_TechScavengers.blurb>熟練した手と鋭い目を持つ{0}は、倒したメカノイドを最大限に活用します。</VFET_TechScavengers.blurb>
 
   <!-- EN: Walkers in Cold Shadows -->
-  <VFET_CustodiansOfPurity.label>純潔の守護者</VFET_CustodiansOfPurity.label>
-  <VFET_CustodiansOfPurity.description>掃除速度が20%増加します。</VFET_CustodiansOfPurity.description>
-  <VFET_CustodiansOfPurity.blurb>{0}の人々は清潔さを神聖視し、迅速かつ効率的な衛生管理を信条としています。</VFET_CustodiansOfPurity.blurb>
+  <VFET_WalkersInColdShadows.label>冷たい影の中を歩むもの</VFET_WalkersInColdShadows.label>
+  <!-- EN: Comfortable minimum temperature is 5 degrees lower. -->
+  <VFET_WalkersInColdShadows.description>快適な最低気温は5度低くなります。</VFET_WalkersInColdShadows.description>
   <!-- EN: To the people of {0}, enduring cold is a testament to their hardiness. -->
   <VFET_WalkersInColdShadows.blurb>{0}の人々にとって、寒さに耐えることはその強靭さの証です。</VFET_WalkersInColdShadows.blurb>
 
@@ -311,16 +292,14 @@
   <VFET_WayOfTheRestedSpirit.label>休息を尊ぶ道</VFET_WayOfTheRestedSpirit.label>
   <!-- EN: Need to rest depletes 10% slower. -->
   <VFET_WayOfTheRestedSpirit.description>休息が必要になる速度が10%遅くなります。</VFET_WayOfTheRestedSpirit.description>
-  <!-- EN: {0} believes in conserving energy, allowing them to be ever ready for the challenges
-  ahead. -->
+  <!-- EN: {0} believes in conserving energy, allowing them to be ever ready for the challenges ahead. -->
   <VFET_WayOfTheRestedSpirit.blurb>{0}はエネルギーの温存を重視し、常に挑戦に備えています。</VFET_WayOfTheRestedSpirit.blurb>
 
   <!-- EN: Whisperers of the Mind -->
   <VFET_WhisperersOfMind.label>精神の囁き手</VFET_WhisperersOfMind.label>
   <!-- EN: Psychic sensitivity is increased by 10%. -->
   <VFET_WhisperersOfMind.description>サイキック感受性が10%増加します。</VFET_WhisperersOfMind.description>
-  <!-- EN: {0}'s inhabitants believe in unlocking the mysteries of the mind, making them susceptible
-  to psychic forces. -->
+  <!-- EN: {0}'s inhabitants believe in unlocking the mysteries of the mind, making them susceptible to psychic forces. -->
   <VFET_WhisperersOfMind.blurb>{0}の住民は精神の謎を解こうとし、サイキックな力に対して敏感です。</VFET_WhisperersOfMind.blurb>
 
   <!-- EN: Whisperers to the Wild -->
