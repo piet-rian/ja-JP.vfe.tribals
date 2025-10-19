@@ -3,37 +3,27 @@
 
   <!-- EN: Industrial tech level -->
   <VFET_FormCity.label>工業技術レベル</VFET_FormCity.label>
-  <!-- EN: You have successfully completed enough medieval research projects and have advanced to
-  industrial tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies
-  only to your civilization. -->
+  <!-- EN: You have successfully completed enough medieval research projects and have advanced to industrial tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
   <VFET_FormCity.description>中世の研究プロジェクトを十分に完了し、工業技術レベルに到達しました。これにより、文明専用の強力なボーナス「礎石」を選択できます。</VFET_FormCity.description>
 
   <!-- EN: Spacer tech level -->
   <VFET_FormCollective.label>宇宙世紀技術レベル</VFET_FormCollective.label>
-  <!-- EN: You have successfully completed enough industrial research projects and have advanced to
-  spacer tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only
-  to your civilization. -->
+  <!-- EN: You have successfully completed enough industrial research projects and have advanced to spacer tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
   <VFET_FormCollective.description>工業の研究プロジェクトを十分に完了し、宇宙世紀技術レベルに到達しました。これにより、文明専用の強力なボーナス「礎石」を選択できます。</VFET_FormCollective.description>
 
   <!-- EN: Ultratech tech level -->
   <VFET_FormNexus.label>ウルトラテック技術レベル</VFET_FormNexus.label>
-  <!-- EN: You have successfully completed enough spacer research projects and have advanced to
-  ultratech tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies
-  only to your civilization. -->
+  <!-- EN: You have successfully completed enough spacer research projects and have advanced to ultratech tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
   <VFET_FormNexus.description>宇宙世紀の研究プロジェクトを十分に完了し、ウルトラテック技術レベルに到達しました。これにより、文明専用の強力なボーナス「礎石」を選択できます。</VFET_FormNexus.description>
 
   <!-- EN: Medieval tech level -->
   <VFET_FormTown.label>中世技術レベル</VFET_FormTown.label>
-  <!-- EN: You have successfully completed enough neolithic research projects and have advanced to
-  medieval tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies
-  only to your civilization. -->
+  <!-- EN: You have successfully completed enough neolithic research projects and have advanced to medieval tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
   <VFET_FormTown.description>新石器時代の研究プロジェクトを十分に完了し、中世技術レベルに到達しました。これにより、文明専用の強力なボーナス「礎石」を選択できます。</VFET_FormTown.description>
 
   <!-- EN: Neolithic tech level -->
   <VFET_FormTribe.label>新石器技術レベル</VFET_FormTribe.label>
-  <!-- EN: You have successfully completed enough pre-neolithic research projects and have advanced
-  to neolithic tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies
-  only to your civilization. -->
-  <VFET_FormTribe.description>先新石器時代の研究プロジェクトを十分に完了し、新石器技術レベルに到達しました。これにより、文明専用の強力なボーナス「礎石」を選択できます。</VFET_FormTribe.description>
+  <!-- EN: You have successfully completed enough pre-neolithic research projects and have advanced to neolithic tech level. This will allow you to pick a Cornerstone - a powerful bonus that applies only to your civilization. -->
+  <VFET_FormTribe.description>先-新石器時代の研究プロジェクトを十分に完了し、新石器技術レベルに到達しました。これにより、文明専用の強力なボーナス「礎石」を選択できます。</VFET_FormTribe.description>
 
 </LanguageData>

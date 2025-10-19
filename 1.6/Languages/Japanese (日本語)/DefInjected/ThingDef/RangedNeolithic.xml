@@ -3,9 +3,7 @@
 
   <!-- EN: throwspikes -->
   <VFET_Throwspikes.label>投げ槍</VFET_Throwspikes.label>
-  <!-- EN: Throwspikes are short sticks sharpened on both sides. They take a while to throw, but can
-  do reasonable damage when they hit. This weapon represents a bundle of throwspikes and can be
-  thrown over and over. -->
+  <!-- EN: Throwspikes are short sticks sharpened on both sides. They take a while to throw, but can do reasonable damage when they hit. This weapon represents a bundle of throwspikes and can be thrown over and over. -->
   <VFET_Throwspikes.description>両端を尖らせた短い棒。投げるのに時間がかかりますが、命中すればそれなりのダメージを与えます。この武器は投げ槍の束を表し、何度でも投げることができます。</VFET_Throwspikes.description>
   <!-- EN: limb -->
   <VFET_Throwspikes.tools.limb.label>手足</VFET_Throwspikes.tools.limb.label>

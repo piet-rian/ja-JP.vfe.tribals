@@ -73,7 +73,7 @@ Ethos lock is currently on. The ethos text will not auto-regenerate. -->
   <!-- EN: When burning, large fire emits blindsmoke and has a chance to encourage wild men from the local area to wander in. It's very unstable and may set things around it on fire. -->
   <VFET.LightLargeFireDesc>燃えている間、大きな火は盲煙を放ち、近隣の野人を引き寄せることがあります。非常に不安定で周囲の物に火が移ることがあります。</VFET.LightLargeFireDesc>
   <!-- EN: Some Animal tech research must still be completed. -->
-  <VFET.ResearchLeft_Neolithic>いくつかの動物関連技術の研究が未完了です。</VFET.ResearchLeft_Neolithic>
+  <VFET.ResearchLeft_Neolithic>先-新石器時代の研究がいくつか未完了です。</VFET.ResearchLeft_Neolithic>
 
   <!--These
 	are needed for Ideology compat -->

@@ -10,8 +10,7 @@
 
   <!-- EN: stake -->
   <VFET_Stake.label>杭</VFET_Stake.label>
-  <!-- EN: A sharpened wooden log. Can deal substantial damage, but is prone to breaking and
-  deteriorates fast. Good at killing sanguophages. -->
+  <!-- EN: A sharpened wooden log. Can deal substantial damage, but is prone to breaking and deteriorates fast. Good at killing sanguophages. -->
   <VFET_Stake.description>先端を尖らせた木の丸太。大きなダメージを与えられますが、壊れやすく劣化も早いです。吸血鬼退治にも有効です。</VFET_Stake.description>
   <!-- EN: shaft -->
   <VFET_Stake.tools.shaft.label>柄</VFET_Stake.tools.shaft.label>
